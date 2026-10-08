@@ -1,4 +1,5 @@
 from pathlib import Path
+
 import numpy as np
 import pandas as pd
 
@@ -19,8 +20,6 @@ def generate_clients(count: int) -> pd.DataFrame:
         "Education",
         "Professional Services",
     ]
-
-    tariffs = ["Start", "Business", "Premium"]
 
     company_ids = np.arange(1, count + 1)
 
