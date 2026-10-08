@@ -1,0 +1,1501 @@
+company_id,industry,employees,turnover,tariff,transactions,revenue,has_card,has_acquiring,has_salary_project,support_requests,churned
+1,Retail,48,1115486,Start,48,2654,False,True,False,2,False
+2,Professional Services,194,1069757,Start,165,4959,False,False,True,1,False
+3,Healthcare,198,4994505,Business,160,5339,True,False,True,2,False
+4,Logistics,156,3192317,Business,164,4000,True,False,False,2,True
+5,IT,117,1546760,Start,111,5644,True,False,True,1,False
+6,IT,221,509652,Start,183,4524,False,False,True,2,False
+7,IT,154,3713236,Business,142,5264,True,False,True,2,False
+8,Professional Services,153,1860837,Start,102,4629,True,False,True,0,False
+9,Logistics,12,2586051,Start,45,2343,True,False,False,1,True
+10,Healthcare,133,4711864,Business,119,4734,True,False,True,1,False
+11,IT,226,162403,Start,161,6455,True,False,True,1,False
+12,Professional Services,48,519213,Start,34,1756,False,True,False,2,False
+13,Education,37,51429972,Premium,476,10336,True,False,False,3,False
+14,Retail,207,1779899,Start,174,6772,False,True,True,1,False
+15,Retail,44,159385,Start,30,3633,True,True,False,1,False
+16,Retail,228,573820,Start,125,4584,True,False,True,3,True
+17,Retail,15,64447457,Premium,534,14364,True,True,True,0,False
+18,Construction,43,1406202,Start,55,2367,False,False,False,3,True
+19,Construction,176,13135358,Business,238,4650,False,False,False,0,False
+20,Retail,87,3780404,Business,62,2517,False,False,True,1,False
+21,Logistics,70,1826732,Start,28,1808,False,False,True,1,False
+22,IT,46,8289784,Business,105,3552,True,False,False,1,False
+23,Retail,242,186982,Start,149,6105,False,True,True,2,False
+24,Retail,108,579917,Start,61,4317,False,True,True,1,False
+25,Construction,123,1810618,Start,114,5842,True,False,True,4,False
+26,Education,171,652466,Start,149,5851,False,True,True,1,False
+27,Retail,237,1628331,Start,164,5795,True,False,True,1,False
+28,Construction,21,9106105,Business,89,4254,True,False,True,0,False
+29,Logistics,151,3830722,Business,136,6179,True,False,True,1,False
+30,IT,107,16138857,Premium,206,5463,True,False,True,2,False
+31,Logistics,247,4132736,Business,208,5139,True,False,False,2,False
+32,IT,80,10755770,Business,160,4737,True,False,False,2,False
+33,IT,47,3027100,Business,44,2230,True,False,False,1,False
+34,Professional Services,117,1609878,Start,64,3249,True,False,True,1,False
+35,Professional Services,124,19320585,Premium,281,7896,True,False,True,4,True
+36,Education,143,1395522,Start,133,3583,False,False,True,2,False
+37,Retail,25,4938705,Business,36,2533,True,False,False,0,False
+38,IT,36,8224901,Business,96,4271,True,False,True,0,False
+39,Healthcare,203,8973543,Business,237,6725,True,False,True,1,False
+40,Construction,51,807314,Start,57,3749,False,True,False,0,False
+41,IT,15,11551669,Business,116,3136,True,False,False,1,False
+42,Construction,68,1009790,Start,52,3564,False,True,True,0,False
+43,IT,21,8648049,Business,121,3272,True,False,False,2,False
+44,Professional Services,141,6213333,Business,154,5795,False,False,True,3,True
+45,Retail,214,8730705,Business,212,7464,True,True,True,1,False
+46,Healthcare,19,769884,Start,37,2398,True,False,False,1,False
+47,Retail,34,6619402,Business,80,4811,True,True,False,1,False
+48,Construction,78,12027574,Business,161,3978,True,False,False,1,False
+49,Logistics,125,4122931,Business,125,2580,False,False,False,1,False
+50,Retail,196,1224030,Start,157,5116,False,True,False,0,False
+51,Professional Services,240,9857046,Business,230,7002,True,False,True,0,False
+52,Education,117,3747889,Business,84,5585,False,True,True,2,False
+53,Professional Services,52,438303,Start,68,2389,True,False,False,0,False
+54,Professional Services,238,1115231,Start,180,6001,True,True,False,1,False
+55,Logistics,27,1738349,Start,48,3083,False,False,False,0,False
+56,Professional Services,157,19914963,Premium,240,7573,True,True,True,0,False
+57,IT,239,16130455,Premium,323,7565,True,False,True,0,False
+58,Retail,156,16068352,Premium,232,6234,True,False,True,0,False
+59,IT,35,4320286,Business,44,4092,True,False,True,0,False
+60,Retail,136,9784536,Business,175,5680,True,False,True,2,False
+61,Retail,144,831564,Start,88,3364,False,False,True,1,True
+62,Retail,106,3295813,Business,101,4735,False,True,True,1,False
+63,Education,164,5620657,Business,158,7453,True,True,True,1,False
+64,Retail,158,899973,Start,139,5218,False,True,True,1,False
+65,Retail,146,4205461,Business,167,4265,True,False,False,2,False
+66,Logistics,2,24740868,Premium,237,5353,True,False,False,2,True
+67,IT,177,6391782,Business,131,4421,False,True,True,0,False
+68,Education,77,9831029,Business,117,3866,False,False,True,1,False
+69,IT,132,172320,Start,48,4984,True,True,True,1,False
+70,Professional Services,90,21201078,Premium,215,5482,False,False,True,3,False
+71,Education,89,2614682,Start,71,3893,True,False,True,0,False
+72,Retail,94,1299612,Start,84,5540,True,True,True,1,False
+73,IT,203,2650965,Start,153,5437,True,False,True,3,False
+74,Education,7,550164,Start,1,290,False,False,False,0,False
+75,Healthcare,95,11496238,Business,165,5164,True,False,True,1,False
+76,Healthcare,108,2185871,Start,59,4485,False,True,True,1,False
+77,Education,74,1347340,Start,46,1639,True,False,False,1,False
+78,IT,39,2671989,Start,39,1394,False,False,False,1,False
+79,Retail,141,12504745,Business,198,7131,True,False,True,1,False
+80,IT,159,3827605,Business,144,4572,False,False,True,1,False
+81,Professional Services,71,602213,Start,84,3548,True,True,False,1,False
+82,Logistics,191,5711412,Business,199,7071,False,True,True,1,False
+83,Retail,56,1072200,Start,32,4385,False,True,True,1,False
+84,IT,241,245899,Start,165,5972,False,True,True,1,False
+85,Retail,170,19681873,Premium,276,7568,True,False,True,0,False
+86,Retail,189,5658536,Business,169,6003,False,True,True,0,False
+87,Healthcare,42,2975953,Start,59,2380,True,False,False,3,False
+88,Logistics,184,2159243,Start,109,3629,False,False,True,0,False
+89,Professional Services,36,17478732,Premium,188,5601,False,False,True,1,False
+90,Construction,84,132830731,Premium,1199,25161,True,False,True,1,False
+91,IT,196,5601453,Business,178,7382,True,True,True,3,False
+92,Healthcare,118,950210,Start,84,3491,True,False,True,1,False
+93,Education,7,2715920,Start,30,2604,False,False,False,2,False
+94,Logistics,54,5480392,Business,103,4145,False,False,True,1,False
+95,Education,129,194963,Start,85,4673,True,False,True,1,False
+96,Construction,172,4883628,Business,179,7340,True,True,True,1,False
+97,Construction,120,5519016,Business,139,5368,True,False,True,2,False
+98,Construction,173,16056280,Premium,302,8015,True,False,True,3,False
+99,IT,106,14168729,Business,185,6531,True,False,True,1,False
+100,IT,47,3735553,Business,24,993,False,False,False,1,False
+101,IT,123,20126829,Premium,225,7044,True,False,True,1,False
+102,Logistics,141,37611258,Premium,412,10650,True,False,True,0,False
+103,Retail,119,3380525,Business,132,5198,False,True,False,2,False
+104,Construction,150,5399540,Business,136,5713,True,False,True,3,False
+105,Professional Services,118,392088,Start,81,2946,False,False,True,0,False
+106,Retail,21,573109,Start,33,3580,False,True,False,0,False
+107,Construction,214,1195606,Start,140,5602,True,False,True,1,False
+108,Healthcare,220,1919658,Start,157,5728,True,False,True,1,False
+109,Retail,137,877342,Start,79,5782,True,True,True,1,False
+110,IT,26,3130819,Business,67,2676,True,False,False,0,False
+111,Retail,9,1989808,Start,53,3670,True,True,False,2,False
+112,IT,15,11817290,Business,77,4151,True,True,False,3,True
+113,Professional Services,10,1849214,Start,19,2536,True,False,False,1,False
+114,Education,216,210226,Start,181,4848,True,False,False,2,False
+115,Logistics,122,3801481,Business,125,5140,True,False,True,1,False
+116,Professional Services,121,3213792,Business,101,4598,True,False,True,0,False
+117,Education,125,1161868,Start,66,5004,True,True,True,1,False
+118,Retail,170,3663757,Business,172,4022,False,False,True,0,False
+119,Professional Services,72,899579,Start,65,4304,True,False,True,3,False
+120,Construction,152,4856399,Business,117,5837,False,True,True,1,False
+121,Education,208,77014888,Premium,811,17342,True,False,True,1,False
+122,Professional Services,49,374472,Start,5,344,False,False,False,2,False
+123,Retail,154,1759445,Start,118,5784,True,False,True,1,False
+124,IT,91,1451624,Start,70,3089,False,False,True,0,False
+125,Retail,37,1943669,Start,74,3656,False,True,False,4,False
+126,Construction,68,11116149,Business,135,5028,True,True,False,1,False
+127,Education,50,6270658,Business,81,4183,False,True,True,1,False
+128,Professional Services,152,9052212,Business,154,4616,True,False,False,0,False
+129,IT,19,3390861,Business,28,1303,True,False,False,2,False
+130,Construction,100,668960,Start,59,3176,False,False,True,1,False
+131,Construction,60,858015,Start,33,2709,False,False,True,0,False
+132,Retail,167,8004477,Business,183,6884,True,True,True,2,False
+133,IT,202,4012793,Business,126,3169,True,False,False,0,False
+134,Retail,89,14831278,Business,155,5804,False,True,True,0,False
+135,Professional Services,146,4647846,Business,138,5570,False,True,True,2,False
+136,Retail,147,790469,Start,111,4633,False,True,True,5,False
+137,Construction,164,1747536,Start,124,3669,False,False,True,3,False
+138,Healthcare,202,6438312,Business,194,6279,True,False,True,1,False
+139,Retail,225,7666716,Business,213,8228,False,True,True,1,False
+140,Professional Services,183,9121368,Business,203,8307,True,True,True,3,False
+141,Professional Services,242,928913,Start,185,7560,True,True,True,1,False
+142,Retail,69,773564,Start,63,5098,False,True,True,0,False
+143,Construction,175,2603160,Start,130,7067,True,True,True,3,False
+144,Retail,49,18404177,Premium,205,6487,True,True,False,1,True
+145,Retail,227,1421691,Start,173,6642,False,True,True,0,False
+146,IT,108,5643225,Business,147,5884,True,False,True,4,False
+147,Logistics,226,5643829,Business,233,8901,True,True,True,1,False
+148,Construction,161,8145101,Business,151,6680,False,True,True,0,False
+149,IT,119,24090504,Premium,266,7024,True,False,True,2,False
+150,Retail,149,21301492,Premium,298,8701,True,False,True,0,False
+151,Professional Services,209,1601534,Start,126,7347,True,True,True,2,False
+152,Retail,150,263688,Start,135,6576,False,True,True,0,False
+153,IT,176,1448102,Start,128,4511,True,False,True,2,False
+154,Construction,37,3579761,Business,67,3287,True,False,True,0,False
+155,Professional Services,143,2118090,Start,115,5052,True,False,True,3,False
+156,Retail,163,34673238,Premium,375,11637,True,True,True,0,False
+157,Healthcare,220,3343525,Business,202,6499,True,False,True,1,False
+158,Education,199,7163106,Business,254,7204,True,False,True,0,False
+159,Retail,160,4242474,Business,137,6570,True,True,True,2,False
+160,Healthcare,11,2156592,Start,19,1652,False,False,False,0,False
+161,Retail,138,324560,Start,46,4817,True,True,True,0,False
+162,Logistics,201,2974715,Start,192,6446,True,False,True,1,False
+163,Logistics,78,162400611,Premium,1426,28352,True,False,True,2,False
+164,Construction,77,734283,Start,25,2755,True,False,True,2,False
+165,IT,185,370330,Start,91,4554,False,True,True,0,False
+166,Education,153,33386666,Premium,346,9240,True,False,True,0,False
+167,Retail,2,7964458,Business,80,3037,True,True,False,3,False
+168,Retail,64,4093471,Business,93,3913,False,False,True,2,False
+169,IT,35,16771786,Premium,145,5274,True,False,True,2,False
+170,Logistics,7,1205250,Start,24,1705,False,False,False,1,False
+171,Healthcare,85,2876504,Start,86,4598,True,False,True,0,False
+172,IT,146,10284875,Business,180,7412,True,True,True,2,False
+173,Construction,67,41137276,Premium,409,10978,True,True,True,2,False
+174,Retail,42,804315,Start,12,1259,True,False,False,2,False
+175,Logistics,118,15201145,Premium,232,8003,True,True,True,2,False
+176,IT,125,5169088,Business,116,4522,False,False,True,1,False
+177,Healthcare,167,3975548,Business,185,6964,True,False,True,1,False
+178,Retail,169,3238837,Business,125,3964,True,False,False,1,False
+179,Professional Services,241,620588,Start,166,5443,True,False,True,0,False
+180,IT,203,10383273,Business,229,6629,True,False,True,1,False
+181,Retail,231,1278601,Start,173,7044,True,True,True,2,False
+182,IT,24,894814,Start,34,1932,False,False,False,1,False
+183,Professional Services,188,9459695,Business,184,3882,False,False,False,2,False
+184,Professional Services,46,8427079,Business,101,3796,False,False,True,2,False
+185,Retail,19,3594085,Business,46,3700,False,True,False,0,False
+186,Logistics,68,11940569,Business,136,5114,True,True,False,1,False
+187,Education,218,18094596,Premium,311,8626,True,False,True,1,False
+188,Logistics,102,15710956,Premium,175,6350,True,False,True,1,False
+189,Construction,42,1734214,Start,37,2697,False,False,True,4,False
+190,Retail,32,11038789,Business,99,3559,False,False,False,3,False
+191,IT,167,4214195,Business,145,6192,True,False,True,1,False
+192,Professional Services,109,25934620,Premium,321,8659,True,False,True,1,False
+193,Professional Services,238,2817966,Start,219,5090,True,False,False,3,False
+194,Logistics,36,2131281,Start,68,1645,False,False,False,0,False
+195,Retail,232,1565074,Start,166,6494,False,True,True,2,False
+196,Retail,229,4102657,Business,212,7420,True,True,True,2,False
+197,Healthcare,97,5723382,Business,117,4240,False,False,True,1,False
+198,Professional Services,164,5857038,Business,164,6546,True,False,True,1,False
+199,Professional Services,131,4970380,Business,131,4389,False,False,True,1,False
+200,Education,73,7313587,Business,147,4836,False,True,False,1,False
+201,Logistics,136,2502872,Start,143,3800,False,False,False,2,False
+202,IT,97,1147368,Start,92,3918,False,False,True,2,False
+203,IT,123,1033236,Start,91,3063,False,False,True,0,False
+204,Professional Services,70,10533395,Business,137,3038,False,False,False,1,False
+205,Logistics,169,5748139,Business,176,5664,True,False,False,0,False
+206,IT,231,352566,Start,154,4934,False,False,True,0,False
+207,IT,196,12189727,Business,257,6872,True,False,True,2,False
+208,Healthcare,13,31218523,Premium,250,5954,True,False,False,2,False
+209,IT,49,1384569,Start,53,1612,True,False,False,0,False
+210,IT,60,4893371,Business,36,519,False,False,False,2,True
+211,Logistics,130,1852136,Start,95,4951,True,False,True,2,False
+212,Healthcare,188,6948027,Business,231,6905,True,False,True,3,False
+213,Logistics,5,806766,Start,30,1599,False,False,False,0,False
+214,Retail,172,3000427,Business,176,7896,True,True,True,1,False
+215,Healthcare,27,10612859,Business,93,3393,True,False,False,1,False
+216,Retail,160,14401660,Business,234,6778,False,True,False,1,False
+217,Retail,149,5453646,Business,175,5278,False,False,True,0,False
+218,Healthcare,8,2176319,Start,36,2091,False,False,False,0,False
+219,Logistics,230,483534,Start,175,6036,False,False,True,1,False
+220,Professional Services,200,1317096,Start,183,6793,False,True,True,1,False
+221,Logistics,50,1861460,Start,29,3550,True,True,False,0,False
+222,Logistics,67,1415112,Start,55,3150,False,False,True,1,False
+223,IT,246,3511182,Business,166,4935,False,False,True,1,False
+224,Retail,44,2168908,Start,26,4417,True,True,True,4,False
+225,Retail,125,4019007,Business,142,7230,True,True,True,2,False
+226,Retail,58,13841096,Business,137,3066,False,False,False,0,False
+227,Professional Services,3,2007188,Start,33,1915,True,False,False,0,False
+228,Retail,86,621915,Start,98,5613,False,True,True,1,False
+229,Professional Services,70,1408380,Start,57,4263,True,False,True,1,False
+230,Logistics,130,6585008,Business,156,6724,True,False,True,2,False
+231,Education,215,7374454,Business,226,7427,True,False,True,4,False
+232,Construction,172,5321694,Business,140,7083,True,True,True,0,True
+233,Logistics,2,15570439,Premium,118,4159,True,False,False,3,False
+234,Construction,102,2613927,Start,73,3240,False,False,True,0,False
+235,Retail,209,38362822,Premium,455,12621,True,True,True,1,False
+236,Healthcare,35,8726060,Business,111,3102,False,False,False,0,False
+237,Retail,98,158231,Start,58,4172,False,True,True,2,False
+238,IT,215,28368512,Premium,386,9673,True,False,True,1,False
+239,Logistics,30,1302265,Start,11,2224,True,False,False,0,False
+240,IT,116,945130,Start,113,4774,True,False,True,2,False
+241,Professional Services,8,6128896,Business,45,2665,True,False,False,3,False
+242,Professional Services,150,406030,Start,138,5682,True,False,True,4,False
+243,Professional Services,44,1418963,Start,43,2749,True,False,False,2,False
+244,Retail,186,21178948,Premium,278,10019,True,True,True,0,False
+245,IT,36,6372236,Business,74,3041,False,False,True,4,True
+246,Professional Services,197,8664005,Business,188,6205,False,False,True,2,False
+247,Construction,77,1486161,Start,78,4391,True,False,True,3,False
+248,Professional Services,221,516048,Start,153,4721,True,False,False,0,False
+249,Professional Services,31,7634445,Business,88,3482,True,False,False,1,False
+250,Professional Services,47,9982133,Business,108,5017,True,False,True,1,False
+251,Retail,249,9454411,Business,241,5569,True,False,False,0,False
+252,Retail,55,4201209,Business,54,4320,True,True,False,0,True
+253,Professional Services,208,1024298,Start,170,4340,False,False,True,0,False
+254,Retail,106,60935318,Premium,578,14401,True,True,False,1,False
+255,IT,190,5813799,Business,175,6090,True,False,True,0,False
+256,Logistics,158,2653356,Start,128,6283,False,True,True,0,False
+257,Professional Services,121,2667523,Start,93,3564,True,False,False,2,False
+258,Healthcare,55,3911834,Business,64,4120,True,True,False,2,False
+259,Logistics,144,11799053,Business,203,6133,True,False,True,1,False
+260,IT,12,4104332,Business,21,1562,True,False,False,1,False
+261,Logistics,145,9158708,Business,160,7419,True,True,True,1,False
+262,Professional Services,144,3920294,Business,161,6011,True,False,True,2,False
+263,IT,140,2856693,Start,114,4331,False,False,True,1,False
+264,Construction,136,7056787,Business,142,4497,False,False,True,1,False
+265,Professional Services,212,6742512,Business,177,5392,False,False,True,0,False
+266,Healthcare,3,2666931,Start,41,3476,True,True,False,1,False
+267,Healthcare,144,1330348,Start,90,2079,False,False,False,1,False
+268,Healthcare,30,4926181,Business,61,3159,False,True,False,1,False
+269,Retail,237,3591276,Business,161,6181,False,True,True,1,False
+270,Retail,23,1679747,Start,46,2360,False,False,False,1,True
+271,Education,92,1189590,Start,97,4463,False,True,True,0,False
+272,Education,115,5349806,Business,134,3945,True,False,False,1,False
+273,Professional Services,104,6325591,Business,94,5408,False,True,True,2,False
+274,Professional Services,118,2122194,Start,117,5848,True,False,True,1,False
+275,Construction,5,1629975,Start,1,1914,False,True,False,3,False
+276,Construction,212,1207054,Start,135,4622,True,False,True,2,False
+277,Education,104,5171668,Business,108,5055,True,False,True,1,False
+278,Logistics,248,1245724,Start,175,5982,True,False,True,3,False
+279,Healthcare,108,48127364,Premium,466,11027,True,False,True,2,True
+280,Education,65,1998010,Start,87,4734,True,True,False,2,False
+281,Professional Services,121,178036,Start,126,5448,True,False,True,1,False
+282,Retail,30,3152776,Business,19,2910,False,True,False,0,False
+283,Retail,149,2994715,Start,115,5620,False,True,True,2,False
+284,IT,84,12410609,Business,165,5178,True,False,False,0,False
+285,Logistics,198,4619289,Business,169,5890,True,False,True,1,False
+286,IT,150,1201880,Start,123,4235,False,False,True,1,False
+287,Construction,210,2318265,Start,184,7068,False,True,True,0,False
+288,Logistics,200,4842316,Business,195,5629,True,False,True,2,False
+289,Retail,231,243371,Start,175,7607,True,True,True,1,False
+290,Logistics,32,16294628,Premium,191,6036,True,False,True,2,False
+291,IT,161,1205730,Start,90,4355,False,True,True,1,False
+292,IT,245,17902529,Premium,350,9262,True,False,True,0,False
+293,Education,16,5235422,Business,46,1398,False,False,False,1,False
+294,Retail,204,6958767,Business,216,7230,True,True,True,1,False
+295,IT,38,12985035,Business,114,2416,False,False,False,2,False
+296,Construction,244,6502897,Business,206,7302,True,False,True,1,False
+297,Education,226,7329834,Business,232,5447,True,False,False,2,False
+298,Retail,142,2683681,Start,83,5055,False,True,True,2,False
+299,Logistics,36,5109450,Business,87,1823,False,False,False,1,False
+300,IT,225,1615253,Start,196,7328,True,False,True,2,False
+301,IT,151,2164947,Start,127,5720,False,True,True,1,False
+302,Construction,114,34540187,Premium,370,9067,True,False,True,3,False
+303,Logistics,237,1239436,Start,159,5504,False,True,False,2,True
+304,Logistics,66,3934052,Business,92,5431,True,False,True,2,False
+305,Healthcare,105,3745863,Business,111,4543,True,False,True,2,False
+306,Professional Services,85,2251471,Start,59,3459,True,False,True,0,False
+307,Construction,2,6060368,Business,44,4139,False,True,False,1,False
+308,Retail,219,6633655,Business,205,7778,True,True,True,1,False
+309,Education,249,1076275,Start,175,5031,False,False,True,3,False
+310,Retail,201,3691812,Business,144,4919,False,True,True,1,False
+311,Construction,193,891944,Start,156,4341,True,False,False,2,False
+312,IT,75,8421161,Business,117,2228,False,False,False,0,False
+313,IT,67,4040119,Business,80,2709,True,False,False,1,False
+314,Professional Services,180,3608475,Business,144,3584,False,False,True,0,False
+315,Education,190,7208977,Business,202,7003,True,False,True,3,False
+316,Healthcare,151,2348735,Start,129,3588,False,False,True,0,False
+317,Construction,154,9789552,Business,213,4863,False,False,True,1,False
+318,IT,196,1047446,Start,155,5735,False,True,True,1,False
+319,IT,210,17791863,Premium,291,8611,True,False,True,2,False
+320,Retail,55,1687749,Start,37,3843,False,True,True,1,False
+321,Logistics,6,427019,Start,25,1094,False,False,False,1,False
+322,Healthcare,163,2203941,Start,126,4507,False,False,True,1,False
+323,Healthcare,150,1923463,Start,117,4780,True,False,True,1,False
+324,Retail,171,2184093,Start,134,6430,False,True,True,0,False
+325,Professional Services,143,4316595,Business,128,4934,True,False,True,2,False
+326,Healthcare,86,12205666,Business,158,5482,True,False,True,3,False
+327,Logistics,60,2597221,Start,102,3768,False,False,False,2,False
+328,Logistics,101,1425536,Start,61,3125,False,False,True,0,False
+329,Construction,244,845889,Start,161,5013,False,False,True,0,False
+330,Retail,234,1863898,Start,207,7770,True,True,True,3,True
+331,Retail,12,339289,Start,3,2239,False,True,True,3,False
+332,Healthcare,239,1369341,Start,169,6228,True,False,True,1,False
+333,IT,49,14546553,Business,176,6748,True,False,True,2,False
+334,IT,42,1217084,Start,11,3775,True,True,False,1,False
+335,IT,166,6951437,Business,190,5140,False,False,True,1,False
+336,IT,82,750294,Start,64,2615,True,False,False,2,False
+337,Professional Services,173,27379772,Premium,358,9368,True,False,True,1,False
+338,Healthcare,35,29654607,Premium,280,7946,True,False,True,0,False
+339,Construction,158,6644007,Business,153,5844,True,False,True,4,False
+340,IT,216,35658678,Premium,469,10093,True,False,False,3,False
+341,Construction,234,5010025,Business,194,5311,False,False,True,2,False
+342,Construction,158,8221148,Business,187,5434,False,False,True,1,False
+343,IT,206,14862036,Business,292,8505,True,False,True,2,False
+344,Construction,134,4055814,Business,155,6248,False,False,True,0,True
+345,Retail,67,507446,Start,45,4710,True,True,True,0,False
+346,Logistics,80,8425353,Business,135,4543,False,False,True,2,False
+347,Logistics,7,1855692,Start,13,1602,True,False,False,0,False
+348,IT,180,2028818,Start,192,7759,True,True,True,1,False
+349,Retail,14,4673757,Business,64,3839,False,True,False,0,False
+350,Logistics,73,6449654,Business,106,4553,True,False,True,2,False
+351,Construction,143,3914356,Business,138,2260,False,False,False,1,False
+352,Professional Services,149,7010190,Business,170,7724,True,True,True,0,False
+353,Logistics,163,1399704,Start,134,4477,False,False,True,0,False
+354,IT,66,3105717,Business,67,4434,False,True,True,1,False
+355,IT,91,9055678,Business,131,6225,True,True,True,1,False
+356,Logistics,130,27435529,Premium,316,7393,True,False,False,1,False
+357,IT,163,41938830,Premium,440,10322,True,False,True,3,False
+358,Logistics,210,5496224,Business,207,6186,True,False,True,1,False
+359,Professional Services,206,8957590,Business,202,5961,True,True,False,0,False
+360,Logistics,20,35247141,Premium,286,6356,True,False,False,1,False
+361,Retail,210,1461533,Start,158,6559,False,True,True,1,False
+362,Logistics,10,6959650,Business,62,1975,True,False,False,2,False
+363,Construction,25,8219430,Business,90,4196,False,False,True,1,False
+364,Logistics,194,18576979,Premium,279,6432,False,False,True,3,True
+365,Professional Services,25,835203,Start,16,2562,False,True,False,1,False
+366,Retail,54,1058870,Start,60,4722,False,True,True,3,False
+367,Professional Services,33,3353981,Business,63,3096,True,False,False,1,False
+368,Professional Services,164,5143648,Business,169,6854,False,True,True,2,False
+369,Retail,95,12577709,Business,171,5985,True,True,False,2,False
+370,IT,14,6083267,Business,63,3798,True,False,True,1,False
+371,IT,65,2725886,Start,72,2394,False,False,False,2,False
+372,IT,110,5388371,Business,108,4083,False,False,True,2,False
+373,IT,80,4691455,Business,124,4809,True,False,True,1,False
+374,Healthcare,54,26536181,Premium,285,8065,True,False,True,1,False
+375,IT,238,3987961,Business,215,6536,True,False,True,2,False
+376,Retail,125,2064296,Start,96,4377,True,True,False,2,False
+377,Professional Services,180,5607025,Business,183,7254,True,True,True,1,False
+378,IT,131,4148188,Business,145,5603,True,False,True,1,False
+379,Education,227,496236,Start,138,4769,True,False,True,0,False
+380,Retail,169,3208190,Business,178,6507,True,False,True,3,False
+381,IT,134,2896790,Start,83,3965,True,False,True,2,False
+382,Healthcare,25,1702066,Start,45,480,False,False,False,0,False
+383,Logistics,141,11327001,Business,222,7022,True,False,True,2,False
+384,Professional Services,117,1273378,Start,90,2469,False,True,False,2,False
+385,Healthcare,226,5647606,Business,202,5130,False,False,True,2,False
+386,Education,136,2737543,Start,131,5569,False,False,True,0,False
+387,Retail,149,3719999,Business,172,7025,False,True,True,1,False
+388,IT,226,5358226,Business,197,6034,False,False,True,2,False
+389,Healthcare,196,680722,Start,127,4476,True,False,True,0,False
+390,Education,25,4114356,Business,43,2880,False,True,False,1,False
+391,Professional Services,79,50969449,Premium,448,11634,True,True,False,0,True
+392,Construction,68,504783,Start,69,3111,True,False,False,1,False
+393,Retail,173,3050665,Business,136,7165,True,True,True,1,False
+394,Education,188,12583376,Business,232,7066,False,False,True,2,False
+395,Retail,12,4694692,Business,65,3700,False,True,False,2,False
+396,Professional Services,32,7463688,Business,77,3720,True,True,False,1,False
+397,Professional Services,128,188943,Start,106,4957,True,False,True,2,False
+398,Construction,96,6701884,Business,102,5118,False,True,True,3,False
+399,Healthcare,92,1310571,Start,94,4446,False,True,True,0,False
+400,Healthcare,141,4741446,Business,145,5057,False,False,True,1,False
+401,IT,31,3155565,Business,46,2229,False,False,False,0,False
+402,Professional Services,78,50324351,Premium,476,11271,True,False,True,3,False
+403,Construction,20,6299837,Business,40,4280,False,True,True,3,False
+404,Education,146,2855768,Start,128,3267,False,False,True,2,False
+405,Retail,221,534116,Start,156,5369,False,False,True,2,True
+406,Professional Services,60,3780535,Business,48,2060,False,False,False,0,False
+407,Retail,191,8779013,Business,193,7749,True,True,True,3,True
+408,IT,134,2967818,Start,115,4193,True,False,True,2,False
+409,Professional Services,160,1781938,Start,114,3229,False,False,True,0,False
+410,IT,93,1644416,Start,30,4303,True,False,True,2,False
+411,Retail,43,6213095,Business,103,5504,True,True,True,1,False
+412,Professional Services,130,8131577,Business,155,5607,True,False,True,2,False
+413,Professional Services,60,16742352,Premium,136,3963,False,False,True,0,False
+414,Logistics,151,990534,Start,156,4413,True,False,True,2,False
+415,Logistics,211,6145146,Business,223,8388,True,True,True,2,False
+416,Construction,31,2824820,Start,38,2535,True,False,False,3,False
+417,Retail,243,2926503,Start,177,4351,False,False,True,1,False
+418,Retail,5,5294563,Business,55,4494,True,True,False,2,True
+419,Healthcare,211,5331736,Business,196,6014,True,False,True,0,False
+420,Healthcare,162,6165758,Business,175,5358,True,False,True,0,False
+421,Education,10,918993,Start,1,243,False,False,False,2,False
+422,Education,89,1329384,Start,95,4895,True,False,True,1,False
+423,IT,130,19443860,Premium,243,6162,True,False,True,2,False
+424,Construction,126,2508794,Start,122,4324,True,False,True,1,False
+425,IT,11,4719518,Business,31,1573,False,False,False,0,False
+426,Logistics,178,11589378,Business,274,7831,True,False,True,1,False
+427,Construction,159,5700883,Business,172,3385,False,False,False,1,False
+428,Professional Services,56,6298532,Business,149,4125,False,False,False,0,False
+429,Retail,207,9563776,Business,241,7931,True,True,True,4,True
+430,IT,201,257816,Start,131,3053,False,False,False,2,False
+431,IT,215,1815841,Start,182,7255,True,True,True,1,False
+432,Education,83,5736311,Business,123,4045,False,False,True,1,False
+433,Logistics,137,17281950,Premium,247,8498,True,True,True,1,False
+434,IT,99,3538858,Business,111,4635,True,False,True,0,False
+435,IT,149,1186288,Start,129,5603,False,True,True,0,False
+436,Healthcare,73,1224810,Start,41,2197,True,False,False,0,False
+437,IT,156,9441575,Business,166,5530,False,False,True,1,True
+438,Education,190,2517235,Start,138,5117,True,False,True,0,False
+439,Healthcare,238,3240894,Business,196,6623,True,False,True,3,False
+440,IT,115,6838207,Business,133,4468,False,False,True,1,False
+441,IT,7,100525,Start,1,1001,False,False,False,1,False
+442,Professional Services,80,36050850,Premium,371,9816,True,False,True,2,False
+443,Retail,144,1359614,Start,117,5685,True,True,True,1,False
+444,Retail,97,4370218,Business,107,5639,False,True,True,0,False
+445,Education,4,422677,Start,1,2111,False,True,False,1,False
+446,Professional Services,4,1968831,Start,11,1917,False,True,False,1,False
+447,Professional Services,103,14557627,Business,176,5105,True,False,False,2,False
+448,Healthcare,40,327944,Start,49,1469,False,False,False,2,False
+449,Retail,17,12628163,Business,103,4242,False,True,False,3,False
+450,IT,101,2353854,Start,94,2335,False,False,True,0,False
+451,Education,103,5865494,Business,154,6535,False,True,True,1,False
+452,Logistics,124,7195952,Business,140,6015,False,True,False,1,False
+453,Construction,52,5552205,Business,101,4564,True,False,True,1,False
+454,Professional Services,221,1157831,Start,175,5768,True,False,True,4,False
+455,IT,52,2110722,Start,60,3049,False,True,False,0,False
+456,Construction,164,565877,Start,128,4131,True,False,False,4,False
+457,IT,124,5898187,Business,134,5009,True,False,True,0,False
+458,Construction,166,25202813,Premium,326,8941,True,False,True,2,True
+459,IT,231,366103,Start,153,6365,True,False,True,1,False
+460,IT,178,1310638,Start,136,4868,False,False,True,1,False
+461,IT,63,2628357,Start,54,1684,False,False,False,3,False
+462,Logistics,229,4024896,Business,213,6026,True,False,True,1,False
+463,Healthcare,116,9388645,Business,125,4795,True,False,True,1,False
+464,Logistics,191,2723313,Start,166,4907,False,False,True,1,True
+465,Professional Services,62,2237454,Start,68,3964,False,True,True,0,False
+466,Retail,227,12283369,Business,266,8731,False,True,True,1,False
+467,Retail,7,7234665,Business,85,2614,False,False,False,4,False
+468,Professional Services,155,6241765,Business,154,4997,True,False,True,4,False
+469,Retail,92,3741581,Business,100,4310,False,True,True,1,False
+470,Professional Services,214,10636293,Business,204,6030,False,False,True,1,False
+471,IT,14,1487234,Start,13,212,False,False,False,0,False
+472,Professional Services,199,1262705,Start,166,5029,False,False,True,1,False
+473,IT,229,8002953,Business,200,6145,True,False,True,3,False
+474,Professional Services,86,465076,Start,67,2405,False,False,False,0,False
+475,Construction,133,3651378,Business,109,4367,False,False,True,2,False
+476,Professional Services,183,2235845,Start,144,6331,True,True,True,3,False
+477,IT,130,605066,Start,83,4687,True,False,True,0,False
+478,Logistics,62,1069261,Start,27,3091,True,False,True,1,False
+479,Professional Services,219,2868296,Start,184,4871,True,False,False,1,False
+480,Construction,149,11305002,Business,197,6315,True,False,True,0,False
+481,Logistics,246,1493227,Start,196,7402,True,False,True,3,False
+482,Healthcare,230,14020872,Business,293,9364,True,True,True,1,False
+483,Construction,79,3526495,Business,109,3876,True,False,True,0,False
+484,Logistics,149,15751743,Premium,238,6676,True,False,True,1,False
+485,Logistics,138,1582648,Start,135,3599,False,False,False,0,False
+486,Professional Services,215,3083045,Business,156,6815,True,True,True,1,False
+487,IT,58,5086905,Business,101,2625,False,False,False,1,False
+488,Retail,120,2635510,Start,115,6004,True,True,True,1,False
+489,Professional Services,167,10258620,Business,207,5067,True,False,True,1,False
+490,Professional Services,133,231173,Start,103,5614,True,True,True,2,True
+491,Construction,65,59822155,Premium,524,13543,True,True,True,1,False
+492,Logistics,13,9150595,Business,61,3163,True,True,False,1,False
+493,Retail,213,2654486,Start,205,5850,True,False,True,0,False
+494,Retail,218,1684895,Start,163,6913,True,True,True,0,False
+495,Construction,242,1155790,Start,175,6384,False,True,True,0,False
+496,Retail,237,7093848,Business,202,6783,True,True,False,2,False
+497,Logistics,213,10788356,Business,209,6373,True,False,True,3,False
+498,IT,181,2689776,Start,147,6974,True,True,True,1,False
+499,Professional Services,82,12340393,Business,153,3203,False,False,False,0,False
+500,Professional Services,229,1100514,Start,169,5147,False,False,True,0,False
+501,Healthcare,173,890400,Start,130,5075,False,False,True,0,False
+502,Construction,160,28803557,Premium,401,10112,True,False,True,0,False
+503,Retail,164,6644701,Business,163,6966,True,True,True,2,False
+504,Education,209,17473881,Premium,323,7342,False,False,True,0,False
+505,Healthcare,227,1173231,Start,201,5211,True,False,False,1,False
+506,IT,241,1079242,Start,192,6097,True,False,True,2,False
+507,Professional Services,188,2125821,Start,144,4872,False,False,True,2,False
+508,Education,139,1216063,Start,80,2529,False,False,True,0,False
+509,Professional Services,191,7621153,Business,206,6363,True,False,True,1,False
+510,Healthcare,149,1327288,Start,135,5389,True,False,True,2,False
+511,Logistics,52,801304,Start,78,4218,True,False,True,0,False
+512,Construction,183,3876404,Business,141,4371,False,False,True,1,False
+513,Professional Services,117,695242,Start,82,4052,True,False,True,3,False
+514,Professional Services,26,377242,Start,2,2436,True,True,False,4,False
+515,IT,196,3835877,Business,156,7147,True,True,True,1,False
+516,IT,34,400687,Start,40,2482,True,False,False,1,False
+517,Retail,52,8288132,Business,91,4331,False,True,True,0,False
+518,Education,112,612680,Start,67,3588,False,False,True,1,False
+519,Professional Services,82,222168,Start,75,3222,False,True,False,2,False
+520,IT,232,2297757,Start,190,5982,True,False,True,2,False
+521,Logistics,227,3888419,Business,198,5290,False,False,False,2,False
+522,Retail,233,5895913,Business,199,8532,True,True,True,0,False
+523,Professional Services,221,4018498,Business,214,5128,False,False,True,2,False
+524,Professional Services,180,916965,Start,133,5154,False,True,True,3,False
+525,Education,157,7691861,Business,221,6402,True,True,False,4,False
+526,Construction,166,10346576,Business,205,7233,True,False,True,2,False
+527,Construction,42,769183,Start,1,514,False,False,False,0,False
+528,Retail,21,2630784,Start,1,2230,True,True,False,1,False
+529,IT,42,2351753,Start,61,2514,False,False,False,0,False
+530,Professional Services,141,4258629,Business,160,5926,True,False,True,0,False
+531,Education,113,2556351,Start,84,5387,True,False,True,1,False
+532,Professional Services,105,3013300,Business,140,4815,False,False,True,2,False
+533,Professional Services,192,7061574,Business,226,7452,False,True,True,1,False
+534,Logistics,17,858872,Start,23,1340,False,False,False,3,True
+535,Education,120,7919572,Business,160,4203,True,False,False,2,False
+536,Professional Services,137,12856489,Business,220,8762,True,True,True,2,False
+537,Professional Services,169,23230159,Premium,349,9711,True,False,True,1,False
+538,Retail,129,249685,Start,106,5266,True,True,True,3,False
+539,Construction,130,2624807,Start,116,3359,False,False,False,1,False
+540,IT,60,309241,Start,58,1308,False,False,False,3,False
+541,Professional Services,48,175944,Start,45,2816,False,False,False,3,False
+542,Logistics,29,3886080,Business,71,2836,False,False,False,2,False
+543,Retail,97,2024873,Start,53,3134,True,False,True,1,False
+544,Healthcare,10,4684740,Business,52,2605,True,False,False,1,False
+545,Logistics,242,5858201,Business,227,7332,True,False,True,1,False
+546,Retail,58,14613775,Business,160,5318,True,False,True,1,False
+547,IT,188,3487530,Business,176,4484,False,False,True,1,False
+548,Healthcare,232,109127419,Premium,1110,21580,True,False,False,1,False
+549,Construction,21,4721758,Business,56,3128,False,True,False,0,False
+550,Education,28,29828499,Premium,282,5418,False,False,False,0,False
+551,Construction,203,198907,Start,175,7918,True,True,True,1,False
+552,Professional Services,247,16513477,Premium,313,7739,True,False,True,4,False
+553,Logistics,34,2631560,Start,27,3182,True,False,True,3,False
+554,Logistics,8,315521,Start,20,2650,False,True,False,0,False
+555,Professional Services,187,5414841,Business,131,4062,True,False,False,1,False
+556,Construction,214,2272641,Start,122,4761,False,False,True,1,False
+557,IT,200,6557132,Business,201,6247,True,False,True,1,False
+558,IT,177,10998745,Business,168,3722,False,False,True,0,False
+559,Healthcare,79,547446,Start,33,1200,False,False,False,4,False
+560,Logistics,145,11049577,Business,185,7842,True,True,True,4,True
+561,Healthcare,188,3294534,Business,144,5269,True,False,True,1,False
+562,Retail,87,16575054,Premium,196,6409,True,True,False,3,False
+563,IT,88,2555662,Start,105,4903,True,False,True,4,True
+564,IT,173,1858925,Start,141,5617,True,False,True,2,False
+565,Retail,211,3376887,Business,159,3968,False,False,True,1,False
+566,Logistics,69,3694045,Business,106,4648,True,False,True,0,False
+567,Retail,160,1475722,Start,95,5012,False,True,True,0,False
+568,Construction,172,1802047,Start,139,5939,False,True,True,0,False
+569,Professional Services,193,749940,Start,110,3745,True,False,True,1,False
+570,Retail,87,1940441,Start,82,5537,False,True,True,0,False
+571,Construction,101,7360011,Business,125,6403,True,True,True,0,False
+572,Education,8,2772264,Start,50,1912,False,False,False,1,True
+573,Retail,77,10972232,Business,159,5294,True,False,False,1,False
+574,Logistics,200,2616857,Start,150,4917,False,False,True,4,False
+575,Professional Services,249,586646,Start,163,6314,True,True,True,1,False
+576,Professional Services,87,6694051,Business,110,4686,True,False,True,1,False
+577,IT,43,1456653,Start,79,4709,True,True,False,1,False
+578,Professional Services,129,2470569,Start,143,5352,True,False,True,1,False
+579,Construction,109,14433846,Business,177,8189,True,True,True,3,False
+580,Retail,179,811756,Start,148,5186,True,True,False,1,False
+581,Construction,152,3983584,Business,104,5244,True,False,True,4,False
+582,Professional Services,227,3113873,Business,175,5119,True,False,False,0,False
+583,Construction,152,7580660,Business,151,5712,True,True,False,2,False
+584,Retail,17,9121857,Business,109,4327,False,True,False,2,False
+585,Logistics,133,4486604,Business,104,3383,False,False,True,0,False
+586,Retail,148,2121322,Start,129,6318,True,True,True,0,False
+587,IT,21,5769217,Business,62,2204,False,False,False,1,False
+588,IT,232,16236739,Premium,294,7967,True,False,True,2,False
+589,IT,58,3163697,Business,100,2630,False,False,False,0,False
+590,IT,159,2372115,Start,166,7634,True,True,True,0,False
+591,IT,110,5208509,Business,117,5302,True,True,True,2,False
+592,Logistics,228,3424521,Business,181,5442,False,False,True,2,True
+593,Retail,139,656546,Start,72,6334,True,True,True,3,False
+594,Retail,180,4356575,Business,162,4727,False,False,True,2,False
+595,Professional Services,143,649452,Start,144,4719,True,False,True,3,False
+596,Construction,211,5123645,Business,187,5921,True,False,True,0,False
+597,Healthcare,135,1255982,Start,119,4783,False,True,True,0,False
+598,IT,243,3416918,Business,170,7322,True,True,True,2,False
+599,Retail,28,5223679,Business,54,3135,False,True,False,0,False
+600,IT,51,62126551,Premium,562,13025,True,False,True,1,False
+601,IT,235,7970836,Business,233,6878,True,False,True,0,False
+602,Retail,186,16814607,Premium,286,9395,True,True,True,1,False
+603,IT,5,30894767,Premium,248,6889,False,True,False,0,False
+604,IT,5,5880233,Business,17,2657,True,True,False,2,False
+605,IT,94,4605803,Business,126,5191,True,False,True,0,False
+606,Construction,246,908849,Start,161,5622,False,False,True,1,False
+607,Retail,96,2842072,Start,101,4737,False,True,True,0,False
+608,Retail,8,1372706,Start,26,3572,True,True,False,0,False
+609,Construction,64,2020245,Start,28,3151,False,False,True,0,False
+610,Healthcare,138,30854589,Premium,374,7704,True,False,False,3,False
+611,IT,38,3751047,Business,46,2776,True,False,False,1,False
+612,Education,111,1142718,Start,88,5622,True,True,True,1,False
+613,Logistics,224,17012180,Premium,291,8493,True,False,True,2,False
+614,IT,112,10286373,Business,196,5865,True,False,True,2,False
+615,Professional Services,220,10953659,Business,272,9041,True,True,True,0,False
+616,Professional Services,81,294385,Start,22,3036,False,True,True,3,False
+617,IT,223,33882362,Premium,483,11662,True,False,True,0,False
+618,Retail,136,1672420,Start,95,6084,True,True,True,1,False
+619,Education,104,8314784,Business,184,7732,True,True,True,3,False
+620,Healthcare,153,67562236,Premium,664,14947,True,False,True,0,False
+621,Retail,73,43418635,Premium,406,10212,True,True,False,0,False
+622,Retail,194,1011480,Start,139,5913,True,True,True,3,False
+623,Retail,207,577566,Start,141,6434,False,True,True,0,False
+624,Construction,178,18190606,Premium,326,8598,True,False,True,3,True
+625,Logistics,195,3876591,Business,167,5952,True,False,True,3,False
+626,Retail,49,1792178,Start,43,4831,True,True,True,0,False
+627,Construction,36,6889177,Business,84,4041,True,False,False,0,False
+628,Healthcare,126,2688635,Start,91,5504,True,True,True,0,False
+629,IT,68,7584285,Business,142,3802,True,False,False,3,False
+630,Retail,78,3542623,Business,54,3591,False,True,True,2,False
+631,Healthcare,105,7778433,Business,126,3124,False,False,False,1,False
+632,Professional Services,169,1117451,Start,146,5107,True,False,False,0,False
+633,Construction,217,18062606,Premium,303,7066,True,False,False,0,False
+634,Construction,122,7550678,Business,159,5725,True,False,True,3,False
+635,IT,119,7099655,Business,173,6350,True,False,True,2,False
+636,Construction,190,854948,Start,160,5711,True,False,True,2,False
+637,Construction,114,25129647,Premium,291,8587,True,False,True,1,False
+638,Retail,10,3215651,Business,75,3573,True,False,False,0,False
+639,Retail,149,7831453,Business,156,6661,True,True,True,1,False
+640,Retail,164,2219096,Start,131,5792,True,True,True,1,False
+641,IT,140,4470750,Business,134,6906,True,True,True,0,False
+642,Retail,91,4669454,Business,100,5361,False,True,True,1,False
+643,Retail,232,110866,Start,141,4765,True,False,True,1,False
+644,Retail,2,6576003,Business,24,2292,False,True,False,0,False
+645,IT,118,34566990,Premium,379,9231,True,False,True,2,False
+646,Professional Services,13,6247777,Business,48,1737,False,False,False,0,True
+647,Logistics,181,1035867,Start,173,7012,False,True,True,4,False
+648,Healthcare,160,7130941,Business,169,6968,False,True,True,0,False
+649,Education,95,11656524,Business,158,5989,True,False,True,3,False
+650,Construction,144,6046316,Business,173,7117,True,True,True,1,False
+651,IT,32,2990788,Start,55,2900,False,False,False,1,True
+652,Construction,32,2444670,Start,39,2268,True,False,False,0,False
+653,Logistics,124,2432495,Start,94,3497,False,False,True,1,False
+654,Healthcare,226,7552070,Business,294,6608,False,False,True,0,False
+655,Construction,11,604073,Start,19,2368,False,True,False,0,False
+656,IT,10,2092253,Start,46,2597,True,False,False,0,False
+657,Retail,15,22180670,Premium,174,5288,True,True,False,0,False
+658,Retail,17,23231840,Premium,193,5946,True,True,False,1,False
+659,Logistics,168,554722,Start,164,6868,True,True,True,3,False
+660,Logistics,146,840963,Start,137,4078,False,False,True,1,False
+661,Retail,183,2362557,Start,156,5779,False,True,True,3,False
+662,Professional Services,201,9540986,Business,212,7128,True,False,True,2,False
+663,Logistics,153,364773,Start,105,4464,False,True,True,2,False
+664,Retail,232,3060930,Business,174,7369,True,True,True,0,False
+665,IT,59,1850534,Start,33,3803,True,True,False,1,False
+666,IT,78,16049008,Premium,206,5465,False,False,True,0,False
+667,Retail,124,437009,Start,101,5104,False,True,True,1,False
+668,IT,217,3652961,Business,197,6275,True,False,True,3,False
+669,Retail,114,2038385,Start,90,5337,False,True,True,2,False
+670,Retail,22,19072512,Premium,179,6187,False,True,False,2,True
+671,IT,244,6697086,Business,217,5263,False,False,True,1,False
+672,Professional Services,158,1618517,Start,109,4253,True,False,True,0,False
+673,IT,212,9102537,Business,257,8343,True,True,True,0,False
+674,Construction,213,2050112,Start,168,3817,False,False,False,2,False
+675,Construction,172,10844793,Business,220,5760,False,False,True,4,False
+676,Professional Services,32,2459595,Start,59,2945,True,False,False,3,False
+677,IT,179,11589382,Business,224,6453,True,False,True,1,False
+678,Retail,174,5516743,Business,172,6801,True,True,True,3,False
+679,Professional Services,113,163543455,Premium,1420,29328,True,True,True,1,False
+680,Professional Services,120,3067964,Business,91,2495,False,False,False,1,False
+681,Education,149,5175439,Business,128,6935,True,True,True,0,False
+682,Retail,227,1838922,Start,186,7475,True,True,True,2,False
+683,IT,122,3279568,Business,114,5172,False,True,True,2,False
+684,Healthcare,32,127745,Start,5,374,False,False,False,0,False
+685,Professional Services,222,5715548,Business,214,7532,True,True,False,2,False
+686,Logistics,119,16377992,Premium,230,6009,True,False,True,0,False
+687,Logistics,39,5261654,Business,57,1732,False,False,False,2,False
+688,Retail,241,675606,Start,173,6233,True,False,True,1,False
+689,Education,12,1249002,Start,29,2622,False,True,False,1,True
+690,Retail,233,176976,Start,147,6512,True,True,True,1,False
+691,Retail,175,10582463,Business,222,8413,True,True,True,4,False
+692,Construction,18,976943,Start,26,1921,False,False,True,1,False
+693,Construction,149,3158316,Business,110,3109,False,False,True,1,False
+694,Retail,141,2718293,Start,125,5176,True,False,True,1,False
+695,IT,149,19487278,Premium,274,8584,True,True,True,3,False
+696,Logistics,126,3621278,Business,105,4705,True,False,True,1,False
+697,Retail,136,8629278,Business,156,6146,False,True,True,2,False
+698,Logistics,46,6298087,Business,64,5432,True,True,True,0,False
+699,IT,104,16706254,Premium,203,6290,True,False,True,1,False
+700,Construction,238,2453562,Start,186,5623,False,False,True,0,False
+701,Construction,135,30815809,Premium,340,9918,True,True,True,0,False
+702,IT,151,301705,Start,78,5944,True,True,True,1,False
+703,Retail,236,9147289,Business,227,7627,True,True,True,1,False
+704,IT,224,1155514,Start,158,6180,True,False,True,1,False
+705,IT,203,1809752,Start,173,8289,True,True,True,2,False
+706,Professional Services,86,6473950,Business,126,5272,True,True,False,2,False
+707,Retail,150,6412004,Business,175,8084,True,True,True,3,False
+708,Education,235,6767982,Business,206,7372,True,False,True,1,False
+709,Retail,89,619464,Start,70,3849,True,False,True,1,False
+710,Healthcare,22,18603053,Premium,121,4951,True,False,True,0,False
+711,Education,92,1109281,Start,82,4468,False,True,True,0,False
+712,Logistics,29,1301796,Start,43,1199,False,False,False,7,False
+713,Construction,13,7028445,Business,60,3196,False,False,True,0,False
+714,Construction,210,2317349,Start,172,5028,True,False,True,7,True
+715,Retail,2,4732257,Business,10,3997,False,True,True,0,False
+716,Professional Services,29,245752,Start,6,1741,True,False,False,3,False
+717,Education,213,4598263,Business,202,6726,True,False,True,0,False
+718,Professional Services,207,4245619,Business,190,7478,True,True,True,0,False
+719,IT,180,1772975,Start,132,4712,False,False,True,2,False
+720,Healthcare,27,271334,Start,37,2339,True,False,False,0,False
+721,Professional Services,50,2532278,Start,58,2847,True,False,False,1,True
+722,Retail,95,3125645,Business,82,2726,False,False,False,1,False
+723,IT,207,2103946,Start,158,4961,True,False,True,1,False
+724,Healthcare,243,360984,Start,163,6732,True,True,True,0,False
+725,Logistics,151,22157371,Premium,266,10095,True,True,True,2,False
+726,Professional Services,88,1518701,Start,99,2685,False,False,False,0,False
+727,IT,44,2503885,Start,40,661,False,False,False,1,False
+728,Education,205,181431,Start,128,5598,True,True,True,0,False
+729,Retail,22,22160598,Premium,169,5954,True,True,False,2,False
+730,IT,171,1867553,Start,82,3214,False,False,True,1,False
+731,IT,165,3679014,Business,160,4476,False,False,True,1,False
+732,Education,189,12545654,Business,252,7432,False,False,True,1,False
+733,Healthcare,97,1451974,Start,103,3669,False,False,True,2,False
+734,Construction,184,10385217,Business,212,6976,True,False,True,1,False
+735,Retail,3,275518,Start,1,3093,True,True,False,2,False
+736,Professional Services,191,6332362,Business,176,5770,True,False,True,1,False
+737,Retail,118,21567338,Premium,253,8133,True,True,True,1,False
+738,Education,19,1629037,Start,49,3266,False,False,True,2,False
+739,Construction,23,12517746,Business,119,1769,False,False,False,2,False
+740,Retail,157,29523797,Premium,363,8519,True,False,False,2,False
+741,Construction,30,2407717,Start,32,2201,True,False,False,0,False
+742,Retail,39,2180284,Start,71,4987,False,True,True,0,False
+743,Healthcare,108,1112419,Start,46,4231,False,True,True,3,False
+744,Construction,111,1773248,Start,68,4006,False,True,True,2,False
+745,Retail,25,1228823,Start,35,3030,False,True,False,0,False
+746,Professional Services,128,1111328,Start,133,6218,False,True,True,4,False
+747,Retail,229,13778257,Business,270,6820,False,True,False,0,False
+748,Logistics,111,1266906,Start,71,3606,False,False,True,3,True
+749,Professional Services,136,4458069,Business,152,3684,False,False,False,2,False
+750,Logistics,106,3422494,Business,109,5137,True,True,False,2,False
+751,IT,186,19731235,Premium,320,6880,True,False,False,2,False
+752,Professional Services,144,1787292,Start,89,4243,False,False,True,3,False
+753,Logistics,72,5164803,Business,117,5004,True,False,True,1,False
+754,Retail,129,8446676,Business,129,4737,False,False,True,1,False
+755,IT,108,19534633,Premium,232,8131,True,True,True,1,False
+756,Education,5,1756258,Start,26,3159,False,True,False,3,False
+757,Logistics,3,1557401,Start,18,913,False,False,False,1,False
+758,Construction,193,914253,Start,163,6638,True,True,True,3,False
+759,Professional Services,132,47848941,Premium,454,9857,False,False,False,1,False
+760,Education,104,17216295,Premium,219,5505,True,False,True,1,False
+761,IT,227,3107590,Business,208,7988,True,False,True,4,False
+762,Retail,224,33188931,Premium,434,12312,True,True,True,1,False
+763,Retail,64,2892882,Start,46,4070,False,True,True,1,False
+764,Healthcare,106,7797334,Business,159,5775,True,False,True,2,False
+765,IT,98,3309164,Business,83,2645,False,False,False,0,False
+766,Logistics,235,5269081,Business,191,7421,True,True,True,0,False
+767,Education,217,4639484,Business,171,7495,False,True,True,0,False
+768,Professional Services,10,1963064,Start,19,3279,False,True,False,0,False
+769,Retail,149,12127646,Business,209,9275,True,True,True,2,False
+770,Education,128,7718594,Business,128,4443,True,False,True,1,False
+771,IT,46,11220281,Business,104,4179,False,True,False,3,False
+772,Professional Services,231,4800701,Business,187,5422,True,False,True,1,False
+773,IT,219,1101425,Start,143,4778,True,False,True,1,False
+774,Retail,155,25425502,Premium,321,9764,True,True,True,0,False
+775,Education,66,2385531,Start,73,3159,False,False,True,0,False
+776,IT,169,5060017,Business,164,4686,True,False,False,2,False
+777,Retail,112,7007262,Business,141,5232,True,False,True,2,False
+778,Healthcare,13,5019827,Business,84,2711,False,False,False,1,False
+779,Healthcare,137,9805955,Business,186,6257,True,False,True,3,False
+780,Logistics,244,11852548,Business,285,7503,True,False,False,0,False
+781,Healthcare,164,2495999,Start,127,4250,True,False,False,1,False
+782,Logistics,86,22989791,Premium,270,7020,True,False,True,1,False
+783,Retail,234,2373119,Start,174,6459,False,True,True,2,False
+784,Retail,90,4896831,Business,112,5376,False,True,True,4,False
+785,Retail,58,2052945,Start,30,3509,True,False,True,5,True
+786,Professional Services,54,1456915,Start,53,4241,True,False,True,1,False
+787,Logistics,12,11444608,Business,84,2453,False,False,False,0,False
+788,Construction,209,138485512,Premium,1319,28181,True,True,True,1,False
+789,Construction,206,2117799,Start,179,4204,True,False,False,0,False
+790,Professional Services,14,14053554,Business,117,3426,True,False,False,3,False
+791,IT,121,2210891,Start,144,3635,False,False,True,1,False
+792,Logistics,162,3228144,Business,134,5382,True,False,True,1,False
+793,Construction,181,26939401,Premium,318,8894,True,False,True,1,False
+794,Logistics,121,901448,Start,76,3458,True,False,True,1,False
+795,IT,20,656192,Start,1,3047,True,True,False,0,False
+796,Professional Services,75,2944241,Start,84,4210,True,False,True,2,False
+797,Professional Services,144,7249095,Business,136,5292,False,False,True,1,False
+798,Logistics,243,5702412,Business,206,6010,True,False,True,0,False
+799,Healthcare,223,5039487,Business,204,6881,True,False,True,0,False
+800,Professional Services,247,3405690,Business,204,6993,True,False,True,2,False
+801,Healthcare,70,8400888,Business,118,4776,True,False,True,0,False
+802,IT,56,99071,Start,42,3652,True,False,True,1,False
+803,Logistics,211,1327799,Start,151,6006,True,False,True,1,False
+804,Logistics,101,2921667,Start,62,3966,False,True,True,0,False
+805,Construction,186,7613562,Business,185,5866,True,False,True,0,False
+806,Healthcare,132,19534997,Premium,264,7595,True,False,True,3,False
+807,Professional Services,111,1130171,Start,84,5294,True,False,True,3,False
+808,Professional Services,125,18783593,Premium,251,7268,True,True,False,1,False
+809,Construction,132,1899167,Start,96,3593,False,False,True,2,False
+810,IT,20,2797140,Start,57,3349,True,False,False,1,False
+811,Professional Services,138,6567994,Business,100,4131,False,False,True,0,False
+812,Education,24,2561533,Start,40,3361,True,False,False,1,False
+813,IT,246,12386789,Business,302,8732,True,False,True,1,False
+814,Professional Services,227,2011668,Start,205,6366,True,False,True,2,False
+815,Professional Services,154,2048376,Start,120,4015,False,False,True,0,False
+816,Construction,37,11552078,Business,95,3297,False,False,True,0,False
+817,Logistics,230,1308315,Start,199,4479,True,False,False,1,False
+818,Retail,213,4407044,Business,184,6882,False,True,True,1,False
+819,IT,54,445708,Start,38,3197,False,True,False,2,False
+820,Retail,232,29022072,Premium,386,11471,True,True,True,1,False
+821,Education,103,13906436,Business,162,4404,True,False,False,2,False
+822,IT,149,88643089,Premium,854,19087,True,False,True,2,False
+823,Retail,202,16289584,Premium,290,8690,True,True,True,0,False
+824,Retail,38,842745,Start,37,730,False,False,False,6,True
+825,Construction,174,7292666,Business,167,5346,True,False,True,1,False
+826,Professional Services,4,1086410,Start,1,820,False,False,False,1,False
+827,Retail,188,21717848,Premium,283,6545,False,False,True,2,False
+828,Retail,57,872075,Start,35,3303,False,False,True,0,False
+829,Healthcare,173,823249,Start,107,2356,False,False,False,3,False
+830,Construction,20,473651,Start,1,359,False,False,False,1,False
+831,Retail,17,1819266,Start,40,2797,True,False,False,2,False
+832,Construction,119,1429201,Start,68,2877,True,False,False,1,False
+833,IT,71,719290,Start,75,3942,False,True,False,1,False
+834,IT,4,35596964,Premium,307,8452,True,True,False,2,False
+835,Construction,221,6173995,Business,212,5951,False,False,True,1,True
+836,Construction,14,5361109,Business,87,3599,True,False,True,2,False
+837,Professional Services,3,22009776,Premium,159,4338,True,False,False,2,False
+838,Retail,216,4445973,Business,205,6565,False,True,True,2,False
+839,Logistics,229,1331189,Start,165,5947,False,False,True,1,False
+840,Logistics,80,424959,Start,110,5376,True,False,True,1,False
+841,IT,186,1244110,Start,132,4049,False,False,True,2,False
+842,Healthcare,55,19905342,Premium,193,4170,False,False,False,1,False
+843,IT,244,724760,Start,185,7399,True,True,True,0,False
+844,Professional Services,132,4994024,Business,129,4948,True,False,False,1,False
+845,IT,120,11304485,Business,163,5132,False,False,True,0,False
+846,Construction,24,4603897,Business,35,1216,False,False,False,1,False
+847,IT,162,5276533,Business,186,6171,True,False,True,2,False
+848,Professional Services,158,7179387,Business,147,3877,False,False,True,3,False
+849,Construction,82,5153244,Business,104,3835,False,False,True,2,False
+850,Logistics,147,22541959,Premium,311,7807,True,False,True,3,False
+851,IT,159,938135,Start,141,3614,False,False,True,0,False
+852,Healthcare,188,4362299,Business,155,6533,True,False,True,2,False
+853,Retail,60,368837,Start,40,3656,True,True,False,1,False
+854,Professional Services,147,271442,Start,97,3360,False,False,True,1,False
+855,Retail,49,2963835,Start,28,3055,False,True,True,2,False
+856,Retail,63,6274820,Business,107,4015,False,True,False,3,False
+857,IT,110,23133708,Premium,270,7735,True,True,False,1,False
+858,Construction,211,59634813,Premium,673,14046,True,False,False,1,False
+859,Logistics,150,15931881,Premium,221,5051,True,False,False,1,False
+860,IT,152,7823158,Business,193,5957,True,False,True,2,False
+861,Education,109,3960804,Business,132,6063,True,True,True,0,False
+862,Construction,76,520490,Start,58,2934,False,False,True,2,False
+863,Construction,30,2743530,Start,1,1021,False,False,True,2,False
+864,Construction,58,15378055,Premium,158,3241,False,False,False,2,False
+865,Construction,230,9606382,Business,276,9432,True,True,True,4,False
+866,Logistics,117,698296,Start,93,3061,False,False,True,1,False
+867,IT,159,6829969,Business,182,7925,True,True,True,2,False
+868,Retail,100,6162982,Business,119,5528,True,True,False,1,False
+869,Professional Services,192,4974662,Business,171,6306,True,False,True,0,False
+870,Professional Services,19,3161551,Business,2,2783,True,False,True,1,False
+871,Retail,176,7265885,Business,199,6934,False,True,True,1,False
+872,Retail,173,7547867,Business,205,6599,True,False,True,0,False
+873,Logistics,228,1513975,Start,153,4214,False,False,False,0,False
+874,Construction,94,5643510,Business,109,5976,False,True,True,3,False
+875,IT,183,2604433,Start,143,3742,False,False,True,2,False
+876,IT,113,548706,Start,92,2768,True,False,False,1,False
+877,Healthcare,183,1666225,Start,131,3831,False,False,True,1,False
+878,Logistics,225,500604,Start,180,6353,True,False,True,0,False
+879,IT,146,10597325,Business,191,5848,True,False,True,2,False
+880,Retail,63,5010605,Business,34,2510,False,False,True,3,True
+881,Retail,116,2133792,Start,107,6179,False,True,True,1,False
+882,Healthcare,113,17977393,Premium,248,9174,True,True,True,1,False
+883,IT,220,3546916,Business,160,6318,True,False,True,1,False
+884,IT,47,586854,Start,45,3401,True,True,False,3,False
+885,Education,203,1929218,Start,194,3656,True,False,False,0,False
+886,IT,57,23194483,Premium,235,5582,True,False,False,0,False
+887,Logistics,118,1463921,Start,117,3386,False,False,True,3,False
+888,Retail,45,4548306,Business,60,2307,False,True,False,4,False
+889,IT,161,7981619,Business,178,5768,False,False,True,2,False
+890,Retail,145,6635457,Business,152,5040,True,False,True,0,False
+891,Healthcare,198,61796158,Premium,645,15356,True,True,True,0,False
+892,Professional Services,4,796861,Start,6,725,False,False,False,2,False
+893,Education,148,898286,Start,78,4227,False,False,True,1,False
+894,Retail,240,812844,Start,168,5693,True,False,True,1,False
+895,Healthcare,47,2291914,Start,78,6029,True,True,True,0,False
+896,Retail,219,12228170,Business,235,8222,True,True,True,0,False
+897,Retail,143,947818,Start,86,4157,False,True,True,0,False
+898,Professional Services,198,12435086,Business,243,6729,True,True,False,1,False
+899,IT,47,3409758,Business,63,1932,False,False,False,3,False
+900,IT,78,863892,Start,69,2845,True,False,False,0,False
+901,Retail,124,399654,Start,87,5987,True,True,True,0,False
+902,IT,75,522779,Start,58,4065,True,False,True,0,False
+903,Retail,103,1470298,Start,77,4586,True,False,True,1,False
+904,Logistics,137,2668477,Start,92,5421,True,True,True,0,False
+905,Construction,90,16440782,Premium,198,7227,True,False,True,2,False
+906,Professional Services,144,8528344,Business,186,7057,True,False,True,0,False
+907,Education,69,1194538,Start,68,3163,False,True,False,0,False
+908,Retail,249,5338196,Business,183,7047,True,True,True,5,False
+909,Retail,244,23720626,Premium,373,8771,True,True,False,2,False
+910,Retail,61,30975307,Premium,282,8111,True,True,False,1,False
+911,Logistics,138,2241627,Start,143,6200,False,True,True,1,False
+912,Retail,50,10323631,Business,127,4946,True,True,False,1,False
+913,Logistics,3,17329944,Premium,164,5293,False,True,False,1,False
+914,Construction,205,535798,Start,148,4720,True,False,True,2,False
+915,Logistics,107,1767561,Start,88,5467,False,True,True,3,False
+916,Construction,113,46923185,Premium,500,11484,True,False,True,1,False
+917,Retail,94,2277882,Start,104,3566,True,False,False,0,False
+918,Professional Services,118,97271,Start,85,3635,False,False,True,0,False
+919,Education,237,2827336,Start,185,3899,True,False,False,2,False
+920,IT,198,12604325,Business,209,6179,False,False,True,2,False
+921,Professional Services,81,3294656,Business,90,3977,True,False,True,1,False
+922,Construction,109,7713146,Business,138,5335,True,False,True,1,False
+923,Professional Services,51,10078010,Business,130,3835,False,True,False,3,False
+924,Education,245,2135208,Start,206,6868,False,True,True,0,False
+925,Construction,147,1752805,Start,142,5487,True,False,True,0,False
+926,IT,170,3929918,Business,158,4304,False,False,True,1,False
+927,Retail,35,4046386,Business,37,4303,True,True,True,1,False
+928,Logistics,46,3488185,Business,18,1936,True,False,False,1,False
+929,Logistics,154,3664446,Business,121,4094,False,False,True,0,True
+930,Retail,243,1331404,Start,207,6850,True,True,False,3,False
+931,IT,69,8043254,Business,151,5284,True,False,True,1,False
+932,Education,93,6709790,Business,116,4608,False,True,False,1,False
+933,Professional Services,64,657887,Start,21,2844,True,False,True,1,False
+934,Construction,165,2049292,Start,119,4440,False,False,True,2,False
+935,IT,212,3655326,Business,201,5914,True,False,True,1,False
+936,Retail,49,1721702,Start,36,1892,True,False,False,2,False
+937,IT,149,7024020,Business,174,6247,True,False,True,0,False
+938,Professional Services,74,3016901,Business,80,3182,False,False,True,0,False
+939,IT,192,4004330,Business,181,6072,False,True,True,2,False
+940,Logistics,5,2021092,Start,56,4823,True,True,False,0,False
+941,Retail,100,298981,Start,84,5644,True,True,True,1,False
+942,Logistics,70,279171,Start,54,3207,False,False,True,1,False
+943,Logistics,90,6632759,Business,156,4426,True,False,True,4,False
+944,Education,4,4503180,Business,47,2311,False,False,False,1,False
+945,Retail,126,5533851,Business,118,7597,True,True,True,0,False
+946,IT,231,3841476,Business,207,6347,False,False,True,0,False
+947,IT,39,4229020,Business,71,3520,True,False,False,2,False
+948,Professional Services,242,10457479,Business,250,6295,False,False,True,2,False
+949,Professional Services,163,5573552,Business,150,6225,False,True,True,1,False
+950,Logistics,129,11399627,Business,179,6216,True,False,True,0,False
+951,Logistics,24,4015828,Business,39,1903,True,False,False,5,False
+952,Healthcare,57,2279671,Start,53,2891,False,False,True,2,False
+953,IT,100,4126926,Business,87,3065,False,False,True,1,False
+954,Professional Services,70,1198506,Start,66,3740,True,False,True,1,False
+955,Construction,41,2072329,Start,52,4106,True,False,True,1,False
+956,Retail,182,4045378,Business,168,5541,False,True,True,1,False
+957,Construction,174,3981550,Business,153,4780,True,False,False,1,False
+958,IT,60,2877111,Start,62,1127,False,False,False,3,True
+959,IT,108,617959,Start,109,3538,True,False,False,1,False
+960,Healthcare,188,7015913,Business,191,5709,False,True,False,0,False
+961,IT,57,8895660,Business,139,6188,False,True,True,2,False
+962,Logistics,31,23498064,Premium,197,4255,False,False,False,0,False
+963,Retail,84,5554567,Business,116,3115,True,False,False,0,False
+964,Retail,152,3274756,Business,118,4416,False,True,False,1,False
+965,Retail,217,969334,Start,148,7900,True,True,True,0,False
+966,Retail,36,19587877,Premium,180,4782,True,False,False,1,False
+967,Healthcare,213,4401251,Business,176,6877,True,True,True,2,False
+968,Retail,158,4122819,Business,135,4946,True,False,True,2,False
+969,Logistics,152,2409988,Start,150,4775,False,False,True,2,False
+970,Construction,108,2232062,Start,95,4325,True,False,True,1,False
+971,Healthcare,106,7466374,Business,140,4316,False,False,True,1,False
+972,Professional Services,158,959599,Start,109,4625,False,False,True,0,False
+973,Healthcare,86,22988812,Premium,268,7832,True,False,True,1,False
+974,Retail,220,17699230,Premium,308,9634,True,True,True,2,False
+975,IT,135,2137454,Start,106,3402,True,False,False,2,False
+976,Retail,163,1159341,Start,92,2542,False,False,False,2,False
+977,Logistics,183,291196,Start,134,5442,True,False,True,0,False
+978,IT,220,728179,Start,171,7869,True,True,True,1,False
+979,Construction,14,7848977,Business,55,3734,True,True,False,1,False
+980,Logistics,120,4772640,Business,117,4358,True,False,True,2,False
+981,Retail,138,5911346,Business,156,5929,False,True,True,1,False
+982,Education,80,356933,Start,27,2048,False,False,True,0,False
+983,IT,144,2032996,Start,104,3108,False,False,True,1,False
+984,IT,182,16864600,Premium,275,7205,True,False,False,2,False
+985,Healthcare,223,2913212,Start,202,6813,True,False,True,2,False
+986,Construction,106,710160,Start,123,3822,True,False,True,1,False
+987,Healthcare,217,2859270,Start,214,6710,True,False,True,1,False
+988,Construction,205,1295981,Start,157,5387,True,False,True,1,False
+989,Retail,70,4878824,Business,79,1974,False,False,False,3,False
+990,Education,44,3350614,Business,77,1692,True,False,False,0,False
+991,Education,73,6274196,Business,92,5793,True,True,True,5,False
+992,Healthcare,45,758040,Start,22,1234,False,False,False,1,False
+993,Retail,228,1907950,Start,169,6603,True,True,True,2,False
+994,Logistics,184,12097643,Business,221,6989,False,True,False,0,False
+995,Retail,107,643620,Start,88,3979,False,False,True,1,False
+996,IT,84,980939,Start,54,1988,True,False,False,1,False
+997,Professional Services,82,4152232,Business,93,6335,True,True,True,0,False
+998,IT,107,4611555,Business,145,5777,False,True,True,5,False
+999,Professional Services,185,1818241,Start,147,5923,True,False,True,2,True
+1000,Construction,21,2340512,Start,64,2430,False,False,True,2,False
+1001,Retail,196,6198827,Business,212,8051,True,True,True,0,False
+1002,Logistics,178,9061652,Business,211,5189,False,False,True,1,False
+1003,Professional Services,161,906126,Start,113,3615,False,False,True,3,True
+1004,Healthcare,219,5061550,Business,216,5672,True,False,True,1,False
+1005,Education,7,20063628,Premium,167,5338,True,True,False,1,False
+1006,Logistics,70,2844590,Start,72,4825,True,True,True,3,False
+1007,Healthcare,127,894654,Start,102,3903,True,False,True,0,False
+1008,Professional Services,143,846351,Start,107,6170,True,True,True,0,False
+1009,Retail,210,2695556,Start,155,6056,True,True,True,1,False
+1010,Construction,160,11330590,Business,175,6049,True,False,True,0,False
+1011,Retail,248,3112986,Business,218,8576,True,True,True,1,False
+1012,Professional Services,203,4102382,Business,187,5671,True,False,True,2,False
+1013,Professional Services,148,988941,Start,77,4093,True,False,True,2,False
+1014,IT,216,10635852,Business,224,6614,True,False,True,1,False
+1015,Healthcare,143,826710,Start,110,3774,False,False,True,0,False
+1016,Professional Services,176,1784420,Start,146,5500,True,True,True,1,False
+1017,Retail,199,6961446,Business,166,5824,False,True,True,1,False
+1018,Logistics,149,282852,Start,104,5352,True,False,True,4,False
+1019,Professional Services,170,4027890,Business,163,4645,True,False,False,1,False
+1020,IT,154,939508,Start,108,4773,True,True,False,2,False
+1021,Healthcare,236,3334586,Business,198,5303,True,False,True,2,False
+1022,Retail,120,2142605,Start,92,5352,False,True,True,4,False
+1023,Professional Services,128,40914774,Premium,448,10358,True,False,True,0,False
+1024,Professional Services,142,2039580,Start,100,3931,True,False,True,1,False
+1025,Professional Services,57,29834668,Premium,265,6401,False,True,False,0,False
+1026,Construction,165,6611643,Business,171,6083,True,False,True,0,False
+1027,Professional Services,58,1249494,Start,22,1160,False,False,False,1,False
+1028,Professional Services,21,4862061,Business,13,1466,False,False,False,3,False
+1029,Retail,82,2268679,Start,97,5058,True,False,True,1,False
+1030,Education,69,4371378,Business,65,3550,True,False,True,1,False
+1031,IT,131,1387939,Start,76,3346,False,False,True,3,False
+1032,Logistics,87,24846144,Premium,251,8516,True,True,True,1,False
+1033,Retail,218,9924110,Business,218,7393,True,True,True,0,False
+1034,IT,165,3396098,Business,140,5311,False,True,True,3,False
+1035,IT,216,26034619,Premium,346,8895,True,False,True,1,False
+1036,Healthcare,49,3573782,Business,74,2853,True,False,False,0,False
+1037,Retail,147,12202482,Business,217,8028,True,True,True,1,False
+1038,Healthcare,115,3422769,Business,83,3467,False,False,True,0,False
+1039,IT,89,5244367,Business,93,4016,True,False,True,0,False
+1040,Retail,85,2964661,Start,73,5774,False,True,True,2,False
+1041,Construction,128,3665083,Business,116,4953,True,False,True,2,False
+1042,Education,140,4011349,Business,153,5216,True,False,True,0,False
+1043,Retail,249,1463471,Start,209,6913,True,True,False,1,False
+1044,Logistics,189,2020221,Start,199,3956,False,False,False,4,False
+1045,Professional Services,169,2520313,Start,93,5837,True,True,True,0,False
+1046,Logistics,161,4306573,Business,130,3340,False,False,False,1,False
+1047,Retail,178,3151235,Business,187,7791,True,True,True,2,False
+1048,IT,117,13358174,Business,157,4197,False,False,True,1,False
+1049,Professional Services,196,9034326,Business,248,8728,True,False,True,1,False
+1050,IT,127,2582857,Start,113,4174,True,False,False,0,False
+1051,Professional Services,234,17160841,Premium,310,9346,True,False,True,0,False
+1052,Construction,249,30941990,Premium,406,9929,True,False,True,2,False
+1053,Professional Services,71,281365,Start,43,2897,False,False,True,2,False
+1054,Education,86,10006526,Business,178,5972,True,False,True,1,False
+1055,Professional Services,247,1423200,Start,183,5020,False,False,True,2,False
+1056,Retail,33,8545348,Business,85,5308,False,True,True,2,False
+1057,Education,81,14445384,Business,185,5638,True,False,True,0,False
+1058,Construction,152,1141220,Start,112,5115,True,False,True,3,False
+1059,Construction,61,354054,Start,52,2686,False,False,True,2,True
+1060,Logistics,61,8908539,Business,99,4731,True,False,True,0,False
+1061,Professional Services,98,3845764,Business,99,4512,False,False,True,5,False
+1062,Professional Services,28,441473,Start,10,1663,True,False,False,2,False
+1063,Education,186,68031228,Premium,661,14288,False,False,True,1,True
+1064,Construction,43,6915689,Business,97,3491,False,False,True,1,False
+1065,Construction,169,7305368,Business,154,4181,False,False,True,0,False
+1066,Healthcare,167,16835180,Premium,253,8134,True,False,True,3,False
+1067,Retail,86,1628241,Start,92,4979,True,True,False,1,False
+1068,IT,177,3822995,Business,125,2982,False,False,False,1,False
+1069,Retail,17,671194,Start,29,3820,True,True,False,1,False
+1070,Retail,98,1576096,Start,75,4241,False,True,True,1,False
+1071,Retail,198,5192843,Business,162,5337,False,True,False,1,False
+1072,Retail,238,443147,Start,210,4688,False,False,False,1,False
+1073,IT,198,1523395,Start,151,4593,True,False,False,2,False
+1074,IT,98,1073547,Start,66,3558,True,False,False,1,False
+1075,Professional Services,65,3876761,Business,62,4590,True,False,True,2,False
+1076,Construction,74,6515154,Business,123,3519,False,False,True,0,False
+1077,Retail,85,7965126,Business,113,3786,True,False,True,1,False
+1078,Healthcare,5,10838118,Business,108,3616,True,False,False,1,False
+1079,Retail,2,16962917,Premium,142,4840,False,True,False,1,False
+1080,Professional Services,22,6774624,Business,94,1923,False,False,False,2,False
+1081,Education,112,31478114,Premium,319,8011,True,False,True,0,False
+1082,IT,57,3773083,Business,53,3318,True,False,True,1,False
+1083,Construction,66,2655157,Start,62,3783,False,False,True,1,False
+1084,Professional Services,74,6775128,Business,104,4385,True,False,True,1,False
+1085,Professional Services,98,2521353,Start,82,2724,False,False,True,0,False
+1086,Construction,144,30191701,Premium,405,10007,True,False,True,0,False
+1087,Logistics,112,12700858,Business,225,7448,False,True,True,2,False
+1088,IT,179,8043169,Business,198,5797,True,False,True,1,False
+1089,Professional Services,125,3827426,Business,127,5331,True,False,True,1,False
+1090,Retail,167,2004744,Start,128,4872,False,False,True,0,False
+1091,Professional Services,86,7584293,Business,102,5058,False,True,True,3,False
+1092,Logistics,76,845330,Start,56,4406,True,True,True,0,True
+1093,Logistics,88,20608954,Premium,248,7077,True,False,True,1,False
+1094,Construction,239,2641443,Start,215,6970,True,True,False,1,False
+1095,Retail,168,4714380,Business,176,5489,False,True,True,1,False
+1096,IT,38,1097426,Start,5,3730,False,True,True,2,False
+1097,Retail,188,7784020,Business,190,7382,True,True,True,2,False
+1098,Retail,59,1896479,Start,27,3907,False,True,True,2,False
+1099,Education,138,7124674,Business,179,7227,True,True,True,0,False
+1100,Retail,99,8112139,Business,128,4877,True,True,False,3,False
+1101,IT,192,1502801,Start,145,4554,False,False,True,1,False
+1102,Professional Services,243,848958,Start,186,5843,True,False,True,1,False
+1103,Professional Services,63,20548117,Premium,270,8831,True,True,True,1,False
+1104,Professional Services,49,2595373,Start,61,2207,True,False,False,2,False
+1105,Professional Services,192,4281519,Business,165,5988,True,False,True,2,False
+1106,IT,32,5853541,Business,46,2246,False,False,False,2,False
+1107,Retail,135,726184,Start,129,4635,True,False,True,0,False
+1108,Healthcare,21,5695570,Business,58,2535,True,False,False,1,False
+1109,Healthcare,20,3681945,Business,77,1638,False,False,False,2,False
+1110,IT,154,1510215,Start,142,5500,True,False,True,0,False
+1111,Education,127,815989,Start,86,4410,True,False,True,3,False
+1112,Retail,68,6763578,Business,76,5228,True,True,True,3,False
+1113,Retail,110,12651096,Business,187,7474,True,True,True,0,False
+1114,Construction,116,4050328,Business,102,5018,True,False,True,3,False
+1115,Logistics,214,584575,Start,155,3986,False,False,True,1,False
+1116,Logistics,143,919146,Start,128,5808,True,True,True,0,False
+1117,IT,120,1946321,Start,67,3496,False,False,True,0,False
+1118,Professional Services,232,21370962,Premium,345,10387,True,True,True,2,False
+1119,Retail,213,2431208,Start,184,6676,False,True,True,1,False
+1120,IT,79,1863034,Start,86,5419,False,True,True,1,False
+1121,Professional Services,214,438808,Start,126,5370,True,False,True,2,False
+1122,Professional Services,116,1486564,Start,101,5625,True,True,False,2,False
+1123,Professional Services,92,744506,Start,94,4889,True,False,True,1,True
+1124,Education,14,980859,Start,24,2244,True,False,False,2,False
+1125,Logistics,155,3775112,Business,137,4439,False,False,True,1,False
+1126,Logistics,125,2019989,Start,127,4213,False,False,True,0,False
+1127,IT,233,25125487,Premium,358,9192,True,False,True,1,False
+1128,Construction,168,11918519,Business,186,5009,True,False,False,0,False
+1129,Retail,58,1574328,Start,49,3678,False,True,True,2,False
+1130,Retail,28,1087963,Start,39,3783,True,True,False,1,False
+1131,Healthcare,26,17178519,Premium,182,4704,True,False,False,2,False
+1132,Construction,113,23963705,Premium,289,8130,True,False,True,1,False
+1133,IT,191,234896,Start,152,4447,False,False,True,2,False
+1134,Retail,66,3654351,Business,97,5566,True,True,True,3,False
+1135,Healthcare,153,2416295,Start,120,4275,False,False,True,1,False
+1136,IT,248,7123745,Business,230,5178,False,False,False,2,False
+1137,Professional Services,131,33639170,Premium,397,9594,True,False,True,1,False
+1138,Construction,200,1828728,Start,131,4567,True,False,False,2,False
+1139,Construction,44,275725,Start,41,2194,False,False,False,0,False
+1140,Logistics,97,6548910,Business,108,1952,False,False,False,1,False
+1141,Education,42,17330125,Premium,195,6071,True,True,False,2,False
+1142,Retail,244,2270449,Start,189,7610,True,True,True,1,False
+1143,Healthcare,227,1402763,Start,170,5995,True,False,True,1,False
+1144,Logistics,6,1934363,Start,54,3588,True,False,False,2,False
+1145,Retail,167,9067856,Business,170,5880,True,False,True,1,True
+1146,Professional Services,180,1894843,Start,146,4569,False,False,True,1,False
+1147,Education,23,4850112,Business,52,1166,False,False,False,1,False
+1148,Logistics,89,3379923,Business,101,1825,False,False,False,0,True
+1149,Professional Services,123,2986296,Start,149,3415,False,False,False,1,False
+1150,Professional Services,178,7583995,Business,175,6928,True,False,True,2,False
+1151,Healthcare,171,1840787,Start,111,3892,False,False,True,0,True
+1152,Education,147,1949914,Start,102,3449,False,False,True,2,False
+1153,Healthcare,197,8513157,Business,204,8048,True,True,True,1,True
+1154,Healthcare,51,1000179,Start,45,2557,True,False,True,0,False
+1155,Logistics,11,1136808,Start,19,1181,False,False,False,3,False
+1156,Healthcare,248,720443,Start,215,8432,True,True,True,0,False
+1157,IT,12,9054868,Business,116,2414,False,False,False,1,False
+1158,Professional Services,74,2881194,Start,101,4052,True,False,False,1,True
+1159,Professional Services,8,675806,Start,61,2227,False,False,False,1,False
+1160,IT,152,9107149,Business,198,5802,True,False,False,1,True
+1161,Education,220,1678396,Start,190,5481,True,False,True,1,False
+1162,IT,41,1148521,Start,54,1681,False,False,False,1,False
+1163,Retail,164,2584869,Start,149,7293,True,True,True,2,False
+1164,Healthcare,229,19277869,Premium,328,7905,True,False,True,2,False
+1165,IT,85,2035079,Start,68,3697,False,False,True,1,False
+1166,Education,72,6520141,Business,79,4732,False,True,True,1,False
+1167,Education,55,7822353,Business,101,3837,True,False,False,1,False
+1168,Construction,137,5564557,Business,153,7012,True,True,True,1,False
+1169,IT,47,15025900,Premium,159,4367,False,False,False,1,False
+1170,Retail,143,1399269,Start,90,4374,False,True,True,2,False
+1171,Logistics,176,934716,Start,127,5200,True,False,True,3,False
+1172,Professional Services,238,912953,Start,169,5036,True,False,True,1,False
+1173,Logistics,104,2748697,Start,94,3901,False,False,True,0,False
+1174,Retail,210,1049205,Start,165,5883,True,False,True,1,False
+1175,Logistics,42,3902192,Business,76,2775,True,False,False,0,True
+1176,Construction,60,3585419,Business,61,3456,True,False,True,1,False
+1177,Education,212,11098138,Business,260,6717,False,True,False,1,False
+1178,IT,198,4636049,Business,199,5630,False,False,True,2,True
+1179,Education,12,1983984,Start,31,1500,False,False,False,2,False
+1180,Logistics,130,5352204,Business,148,6380,True,False,True,3,False
+1181,Professional Services,7,949572,Start,32,3962,True,True,False,0,False
+1182,Retail,80,3122770,Business,60,2986,False,True,False,1,False
+1183,Logistics,131,4795945,Business,152,5025,False,False,True,1,False
+1184,Professional Services,109,3817785,Business,92,4096,False,False,True,3,False
+1185,IT,3,5379350,Business,33,1066,False,False,False,0,False
+1186,Professional Services,27,1509282,Start,35,3931,True,True,False,2,False
+1187,Healthcare,114,13025736,Business,145,3866,False,False,True,3,False
+1188,IT,107,29110303,Premium,320,8163,True,False,True,2,False
+1189,Retail,40,477724,Start,51,3155,True,True,False,1,False
+1190,Healthcare,230,760158,Start,134,4306,False,False,True,2,False
+1191,IT,161,3442469,Business,163,5647,True,True,False,1,False
+1192,Logistics,220,2402784,Start,160,5631,True,True,False,0,False
+1193,Retail,129,31822841,Premium,359,11019,True,True,True,1,False
+1194,Logistics,247,4255578,Business,197,6341,True,False,True,1,False
+1195,IT,8,17383887,Premium,161,4098,False,False,False,0,True
+1196,Professional Services,101,279582,Start,93,5237,True,False,True,2,True
+1197,Professional Services,160,8684091,Business,197,7343,True,False,True,0,False
+1198,Professional Services,124,1385234,Start,98,5844,True,True,True,0,False
+1199,Healthcare,176,1358849,Start,125,5267,True,False,True,1,True
+1200,IT,107,2426524,Start,93,4346,True,False,True,2,False
+1201,Healthcare,101,591548,Start,88,4091,False,False,True,1,False
+1202,IT,4,5561300,Business,62,5675,True,True,True,2,False
+1203,IT,222,4109689,Business,200,5269,False,False,True,1,False
+1204,Retail,198,4499292,Business,150,5843,False,True,True,2,False
+1205,Construction,110,9477557,Business,155,5483,False,False,True,2,False
+1206,Education,246,20130335,Premium,327,7161,True,False,False,0,False
+1207,Healthcare,19,2112846,Start,44,2286,True,False,False,4,True
+1208,Construction,32,5796824,Business,55,3527,False,True,False,0,False
+1209,Retail,137,4646318,Business,143,6641,True,True,True,1,False
+1210,Professional Services,12,5142950,Business,45,2376,False,False,False,4,False
+1211,Construction,139,5236255,Business,103,5770,False,True,True,0,False
+1212,Construction,46,22045168,Premium,234,7169,False,True,True,1,False
+1213,IT,119,1883020,Start,98,3671,False,True,False,3,False
+1214,Education,16,523931,Start,41,3231,False,True,False,0,False
+1215,Healthcare,129,1414874,Start,68,3947,True,False,True,1,False
+1216,Retail,63,8110907,Business,105,1719,False,False,False,2,False
+1217,IT,109,3361827,Business,99,2096,False,False,False,1,False
+1218,Healthcare,119,1865203,Start,104,4739,True,False,True,1,False
+1219,Logistics,245,898249,Start,152,5181,False,False,True,3,False
+1220,Retail,21,4263254,Business,61,3750,False,True,False,2,True
+1221,Professional Services,158,7084412,Business,207,8107,False,True,True,3,False
+1222,IT,13,4718712,Business,57,1480,False,False,False,1,False
+1223,Construction,162,2412088,Start,135,4858,True,False,True,2,False
+1224,Professional Services,4,3897981,Business,7,2313,False,True,False,2,False
+1225,Construction,156,3870954,Business,125,3412,False,False,True,1,False
+1226,Logistics,102,4104671,Business,104,3870,False,False,True,4,False
+1227,Retail,223,789246,Start,152,6788,True,True,True,1,False
+1228,Retail,59,4142423,Business,96,6273,True,True,True,3,False
+1229,Professional Services,247,1926632,Start,199,6812,True,False,True,2,False
+1230,Construction,128,11395650,Business,238,7212,True,False,True,1,False
+1231,Professional Services,27,3834318,Business,31,3309,True,False,True,2,False
+1232,Retail,69,8909022,Business,123,5796,False,True,True,3,False
+1233,Retail,25,2275845,Start,8,3147,False,True,True,2,False
+1234,IT,131,2376509,Start,67,5314,True,True,True,2,False
+1235,Logistics,97,19640444,Premium,246,7186,True,False,True,0,False
+1236,Retail,196,5518420,Business,193,7586,True,True,True,2,True
+1237,Professional Services,25,1386901,Start,11,2312,False,True,False,1,True
+1238,Construction,148,9591322,Business,185,7169,True,True,True,1,False
+1239,Professional Services,162,1723787,Start,115,4307,True,False,True,1,False
+1240,Retail,154,4285885,Business,133,4491,False,True,False,2,False
+1241,Professional Services,126,29621457,Premium,328,9601,False,True,True,0,False
+1242,Education,133,586812,Start,80,2571,False,False,True,2,False
+1243,Education,227,2647328,Start,166,5489,True,False,True,1,False
+1244,Professional Services,189,5335675,Business,162,6700,True,False,True,1,False
+1245,Education,220,8183561,Business,230,7443,False,True,True,1,False
+1246,Logistics,221,737129,Start,105,4715,True,False,True,1,False
+1247,IT,9,517648,Start,6,1827,False,False,False,2,False
+1248,IT,116,12102217,Business,160,5789,True,False,True,1,False
+1249,Professional Services,230,1377116,Start,151,5639,True,False,True,3,False
+1250,Logistics,178,1309637,Start,125,3994,False,True,False,2,True
+1251,Education,134,21005599,Premium,268,7730,True,False,True,0,False
+1252,Construction,211,3554207,Business,173,5106,False,False,True,2,False
+1253,IT,60,3582193,Business,50,4112,True,False,True,2,False
+1254,IT,172,2634596,Start,156,6196,True,False,True,1,False
+1255,Healthcare,121,752549,Start,72,3311,False,False,True,0,False
+1256,Construction,139,7354598,Business,143,6915,True,True,True,0,False
+1257,Retail,194,5343228,Business,186,6553,True,True,True,1,False
+1258,Construction,175,4002499,Business,162,5948,True,True,True,1,False
+1259,IT,108,2843119,Start,87,4862,True,False,True,1,False
+1260,Logistics,108,2301833,Start,36,1400,False,False,True,1,False
+1261,Retail,201,9771495,Business,204,6035,False,True,False,2,False
+1262,Education,213,2759191,Start,175,3863,False,False,False,1,False
+1263,Retail,216,3027133,Business,190,6785,True,False,True,0,False
+1264,Construction,226,6174088,Business,208,5726,False,False,True,2,False
+1265,IT,214,4195626,Business,175,6801,True,False,True,1,False
+1266,IT,131,23458214,Premium,333,8642,True,False,True,3,False
+1267,Retail,76,394888,Start,49,3655,False,True,False,0,False
+1268,Construction,220,4685058,Business,205,7090,True,True,True,1,False
+1269,Logistics,30,1401807,Start,5,1138,False,True,False,2,False
+1270,Retail,218,1055469,Start,139,5437,True,True,False,3,False
+1271,Healthcare,240,1888933,Start,196,5777,True,True,False,2,False
+1272,Professional Services,21,3490708,Business,64,1922,False,False,False,2,True
+1273,Education,156,3681691,Business,132,4169,False,False,True,1,False
+1274,IT,248,529258,Start,141,4840,False,False,True,2,False
+1275,Construction,218,1707770,Start,163,6551,True,True,True,2,False
+1276,IT,190,4581174,Business,174,5344,False,False,True,0,False
+1277,Retail,161,1141305,Start,124,6813,True,True,True,1,False
+1278,Professional Services,213,857914,Start,144,6639,True,True,True,0,False
+1279,IT,163,218085,Start,112,4255,False,False,True,0,False
+1280,Construction,180,1474998,Start,123,4474,True,False,True,1,False
+1281,Logistics,34,822780,Start,8,752,False,False,False,3,False
+1282,Healthcare,41,1003777,Start,52,1814,True,False,False,5,False
+1283,Logistics,51,2359158,Start,57,2995,False,False,False,1,False
+1284,IT,175,1591528,Start,132,6390,False,True,True,2,False
+1285,Retail,82,806544,Start,53,4734,True,True,False,0,False
+1286,Construction,58,258071,Start,39,4259,True,True,False,2,True
+1287,IT,75,4698592,Business,94,3360,False,False,True,2,False
+1288,Retail,185,8067810,Business,231,6140,True,False,True,0,False
+1289,IT,23,2030730,Start,46,2165,True,False,False,0,False
+1290,IT,176,2376333,Start,129,4559,False,False,True,0,False
+1291,Retail,128,3280061,Business,103,4458,True,False,True,0,False
+1292,IT,150,21737301,Premium,269,7124,False,True,True,4,False
+1293,Logistics,17,498196,Start,12,1389,False,False,False,3,False
+1294,Healthcare,69,1987945,Start,48,1614,True,False,False,3,False
+1295,Education,108,414004,Start,88,3372,False,False,True,0,False
+1296,Retail,139,5049410,Business,86,4619,False,True,False,2,False
+1297,IT,94,2750380,Start,99,5956,True,True,True,1,False
+1298,IT,15,4170683,Business,50,4388,True,True,False,1,False
+1299,Logistics,91,3928416,Business,121,5101,True,False,True,3,False
+1300,Healthcare,163,10733174,Business,221,6223,True,False,True,0,False
+1301,IT,33,6235439,Business,61,4412,True,True,False,2,True
+1302,Professional Services,212,8856033,Business,237,6984,True,False,True,1,False
+1303,IT,125,910144,Start,91,3645,True,False,True,2,False
+1304,Logistics,16,13684919,Business,86,2921,False,True,False,0,True
+1305,Healthcare,162,1373901,Start,128,4495,False,False,True,2,False
+1306,Professional Services,66,1472035,Start,45,2680,False,False,False,4,False
+1307,Healthcare,227,4524470,Business,196,4989,False,False,True,2,False
+1308,Education,168,4696376,Business,189,4923,False,False,True,0,False
+1309,Retail,248,903265,Start,185,7678,True,True,True,3,False
+1310,Education,156,2655291,Start,110,3323,False,False,True,0,False
+1311,IT,47,19499168,Premium,214,7979,True,True,False,0,False
+1312,Professional Services,167,561291,Start,128,5271,False,True,True,2,False
+1313,Logistics,198,19428722,Premium,277,7486,True,False,True,0,False
+1314,Education,201,2445993,Start,128,4651,True,False,True,2,False
+1315,Construction,148,197737,Start,85,5397,False,True,True,1,False
+1316,Logistics,124,634074,Start,108,5775,True,False,True,3,False
+1317,Construction,1,1028721,Start,3,2652,True,True,False,2,False
+1318,Healthcare,200,1546159,Start,154,5955,True,False,True,6,False
+1319,IT,247,2883006,Start,170,3957,True,False,False,0,False
+1320,IT,87,127493,Start,79,2701,False,False,False,0,False
+1321,Retail,128,4090448,Business,83,5773,False,True,True,0,False
+1322,IT,191,921622,Start,128,7180,True,True,True,4,True
+1323,Professional Services,67,17341743,Premium,199,6398,True,False,True,1,True
+1324,Retail,4,2363816,Start,1,1701,False,True,False,2,False
+1325,Professional Services,186,10134088,Business,226,6818,True,False,True,0,False
+1326,Retail,153,12390229,Business,192,6250,True,True,False,3,False
+1327,Retail,47,11994129,Business,108,4670,True,True,False,1,False
+1328,Education,38,1656656,Start,66,3491,False,True,False,0,False
+1329,Logistics,143,1631417,Start,116,4804,True,False,True,1,False
+1330,Construction,191,2495580,Start,164,6055,True,False,True,1,False
+1331,Logistics,21,7014463,Business,93,2831,False,False,False,1,False
+1332,Healthcare,227,1771196,Start,121,4896,True,False,True,1,False
+1333,Retail,57,2833108,Start,76,5734,True,True,True,3,False
+1334,Professional Services,117,4539432,Business,104,6682,True,True,True,1,False
+1335,Professional Services,181,1103645,Start,123,3498,True,False,False,2,False
+1336,Logistics,46,1023020,Start,49,3089,False,True,False,2,False
+1337,Retail,244,2703569,Start,186,5783,True,True,False,1,False
+1338,Healthcare,142,3169278,Business,137,5455,True,False,True,0,False
+1339,IT,228,5502222,Business,204,7921,True,True,True,0,False
+1340,IT,204,7321046,Business,207,6706,True,False,True,0,False
+1341,Retail,145,874252,Start,98,4669,False,True,True,2,False
+1342,Construction,39,1233662,Start,16,2220,True,False,False,0,False
+1343,Professional Services,137,1019779,Start,89,4403,True,False,True,6,False
+1344,Healthcare,99,17804056,Premium,215,7134,True,False,True,0,False
+1345,Healthcare,77,2829683,Start,114,5233,False,True,True,1,False
+1346,Construction,207,3332906,Business,202,6727,True,False,True,3,False
+1347,Retail,210,3503696,Business,163,5906,True,False,True,1,False
+1348,Retail,115,1384979,Start,93,5836,False,True,True,1,False
+1349,Professional Services,225,21361983,Premium,329,8613,True,False,True,0,False
+1350,IT,134,5353344,Business,141,5010,True,False,True,1,False
+1351,Professional Services,219,3428072,Business,187,7269,True,True,True,2,False
+1352,Logistics,151,867778,Start,123,3659,False,False,True,2,False
+1353,Construction,187,810722,Start,79,3920,True,False,True,2,False
+1354,Healthcare,91,2256467,Start,89,2431,False,False,True,2,False
+1355,Construction,98,1411283,Start,72,5380,False,True,True,2,False
+1356,Professional Services,120,908060,Start,77,3903,True,False,False,1,False
+1357,Professional Services,46,2094552,Start,65,2646,True,False,False,4,False
+1358,Construction,38,2521302,Start,76,4537,True,True,False,2,False
+1359,Retail,142,3875334,Business,145,4892,False,True,False,0,False
+1360,Logistics,100,1785656,Start,74,4075,False,True,True,1,False
+1361,Professional Services,245,975669,Start,158,6107,True,False,True,2,False
+1362,Retail,72,1017129,Start,1,4005,False,True,True,0,False
+1363,Logistics,190,14013998,Business,253,6783,True,False,True,2,False
+1364,Logistics,35,727879,Start,42,3670,True,False,True,1,False
+1365,Healthcare,147,5054647,Business,142,4424,False,False,True,0,False
+1366,IT,30,6097903,Business,90,3014,False,False,False,2,False
+1367,Healthcare,78,2826272,Start,51,4276,False,True,True,2,False
+1368,Professional Services,84,27272648,Premium,282,7798,True,False,True,0,False
+1369,IT,113,5968837,Business,123,5124,False,False,True,0,False
+1370,Retail,25,29843680,Premium,263,7041,True,True,False,1,False
+1371,Professional Services,168,1496625,Start,153,6278,False,True,True,1,False
+1372,Retail,88,1527687,Start,72,3340,False,False,True,3,False
+1373,Professional Services,14,6156657,Business,55,2238,True,False,False,2,False
+1374,Construction,154,2388655,Start,108,4963,False,False,True,2,False
+1375,Retail,102,24711975,Premium,303,9772,True,True,True,1,False
+1376,Professional Services,215,4926012,Business,162,5251,False,False,True,2,False
+1377,Construction,150,933327,Start,101,6375,True,True,True,0,False
+1378,Construction,176,406695,Start,160,3519,False,False,False,1,False
+1379,Retail,249,2976068,Start,208,8514,True,True,True,0,False
+1380,Logistics,83,2937449,Start,82,4746,True,False,True,4,False
+1381,IT,110,4763623,Business,117,6194,True,True,True,1,False
+1382,Retail,179,13975672,Business,222,7865,False,True,True,2,False
+1383,Professional Services,131,11934405,Business,189,7421,False,True,True,2,False
+1384,Retail,170,1632003,Start,125,6797,True,True,True,1,False
+1385,Logistics,19,692052,Start,22,778,False,False,False,0,True
+1386,Retail,201,743448,Start,116,5441,False,True,True,0,False
+1387,Education,28,1350300,Start,38,2921,False,False,True,1,False
+1388,IT,212,2105202,Start,186,6224,True,False,True,1,False
+1389,Professional Services,173,4714128,Business,156,4435,False,False,True,1,False
+1390,Construction,71,1250230,Start,73,1970,False,False,False,0,False
+1391,Retail,206,4576615,Business,188,4359,False,False,False,1,False
+1392,IT,63,5047724,Business,74,2577,False,False,True,3,False
+1393,IT,73,3882588,Business,62,4525,False,True,True,1,False
+1394,Construction,124,843784,Start,75,3698,False,False,True,3,True
+1395,Retail,119,5730951,Business,136,6739,True,True,True,1,False
+1396,Education,121,39726282,Premium,414,9773,True,False,True,0,False
+1397,Construction,19,4391037,Business,75,2559,True,False,False,4,False
+1398,Retail,175,94495,Start,139,7395,True,True,True,0,False
+1399,Logistics,244,14491248,Business,307,7807,True,False,True,1,False
+1400,Healthcare,142,1406623,Start,116,6080,False,True,True,1,False
+1401,IT,120,49567960,Premium,477,9825,True,False,False,1,False
+1402,IT,166,3758897,Business,154,6087,True,False,True,1,False
+1403,IT,181,432942,Start,131,5378,True,False,True,1,False
+1404,Healthcare,61,274405,Start,22,1771,True,False,False,1,False
+1405,Healthcare,164,20742367,Premium,311,7464,True,False,True,1,False
+1406,Construction,168,12324330,Business,242,7305,True,False,True,0,False
+1407,Professional Services,209,47262260,Premium,517,12146,True,False,True,3,False
+1408,Education,30,3312154,Business,35,2386,True,False,False,1,False
+1409,Logistics,9,3054615,Business,20,2629,False,False,True,0,True
+1410,Professional Services,64,2065199,Start,74,2224,True,False,False,1,False
+1411,Retail,161,1483703,Start,134,6008,False,True,True,0,False
+1412,IT,120,2041273,Start,101,4189,False,False,True,1,False
+1413,Retail,52,4243742,Business,77,3951,False,True,False,2,False
+1414,IT,89,1187450,Start,46,2201,False,False,True,2,False
+1415,Construction,142,441023,Start,110,4557,False,False,True,0,False
+1416,Professional Services,203,3960385,Business,173,5328,False,False,True,1,False
+1417,IT,53,1156102,Start,33,1671,False,False,False,0,False
+1418,IT,227,67015,Start,128,4606,True,False,True,3,False
+1419,Construction,233,6344385,Business,216,7016,True,False,True,2,False
+1420,Professional Services,187,864865,Start,145,5898,True,True,True,0,False
+1421,Retail,78,7232876,Business,80,3015,False,False,True,3,False
+1422,Construction,222,7028035,Business,214,7235,True,False,True,1,False
+1423,IT,41,4594212,Business,69,2396,False,False,False,0,False
+1424,IT,196,65409718,Premium,671,14223,False,False,True,0,False
+1425,Professional Services,68,2769944,Start,78,4825,True,True,False,1,False
+1426,Professional Services,220,2320359,Start,170,7716,True,True,True,4,False
+1427,IT,8,7425324,Business,73,3692,False,False,True,0,True
+1428,Professional Services,2,3058585,Business,37,2107,True,False,False,1,False
+1429,Logistics,105,13158680,Business,193,5034,False,False,True,0,False
+1430,Professional Services,125,713139,Start,113,4452,True,False,True,1,False
+1431,Construction,110,727515,Start,89,4307,False,False,True,1,False
+1432,Construction,86,8194480,Business,118,3036,True,False,False,2,False
+1433,Construction,169,807926,Start,112,5661,False,True,True,0,False
+1434,Healthcare,120,6789706,Business,119,5788,False,True,True,0,False
+1435,IT,127,5096188,Business,134,5896,True,False,True,1,False
+1436,IT,183,1420634,Start,166,5982,True,False,True,1,False
+1437,Retail,16,5078894,Business,46,2816,False,True,False,0,False
+1438,Healthcare,221,743028,Start,169,4838,False,False,True,2,False
+1439,Retail,62,984727,Start,36,1445,False,False,False,1,False
+1440,Healthcare,113,2459269,Start,103,6570,True,True,True,1,False
+1441,Professional Services,176,3593773,Business,178,6357,True,False,True,0,False
+1442,IT,158,2270779,Start,143,4781,True,False,True,1,False
+1443,Healthcare,12,5497143,Business,22,1335,False,False,False,4,False
+1444,Construction,35,5210360,Business,79,3834,False,False,True,1,False
+1445,Professional Services,11,20485751,Premium,190,4851,True,False,False,1,False
+1446,IT,64,2915808,Start,72,1016,False,False,False,0,False
+1447,Healthcare,238,13707807,Business,294,8143,True,True,False,2,False
+1448,Education,50,9868620,Business,100,3057,False,False,True,1,True
+1449,Professional Services,213,51278019,Premium,577,12964,False,True,True,2,False
+1450,Healthcare,149,2806055,Start,149,5214,False,False,True,2,False
+1451,Construction,69,1973994,Start,85,3590,False,False,False,0,False
+1452,Logistics,48,14786616,Business,167,5238,True,False,False,0,False
+1453,Professional Services,20,5191426,Business,39,200,False,False,False,2,True
+1454,Logistics,101,15218023,Premium,176,6031,True,True,False,2,True
+1455,IT,195,7726438,Business,203,7509,True,True,True,0,False
+1456,Professional Services,172,260898,Start,126,4282,True,False,True,1,True
+1457,Healthcare,161,5134978,Business,153,5186,False,True,False,1,False
+1458,Healthcare,245,4749068,Business,194,6149,True,False,True,2,False
+1459,Retail,201,3835185,Business,181,6825,True,True,True,1,False
+1460,Logistics,189,2789319,Start,157,4547,True,False,True,1,False
+1461,Retail,137,483800,Start,105,5735,True,True,True,1,False
+1462,Logistics,68,9332488,Business,137,5219,True,False,True,2,False
+1463,IT,35,5119268,Business,61,1838,False,False,False,1,False
+1464,Logistics,209,12266076,Business,238,6815,False,False,True,1,False
+1465,Professional Services,226,515809,Start,184,6230,True,False,True,2,False
+1466,IT,216,6007753,Business,186,6575,False,True,True,1,False
+1467,Professional Services,224,2466741,Start,167,4597,False,False,True,2,False
+1468,Construction,65,3884658,Business,102,3700,True,False,True,2,False
+1469,Professional Services,8,2501018,Start,15,524,False,False,False,0,False
+1470,Education,45,6276540,Business,81,4137,False,False,True,1,False
+1471,Logistics,87,2688656,Start,75,4532,True,False,True,2,False
+1472,Healthcare,175,925141,Start,94,4586,True,False,True,1,False
+1473,Professional Services,168,3626253,Business,145,4362,False,False,True,3,False
+1474,Construction,76,2528130,Start,54,3592,False,False,True,1,False
+1475,Retail,182,2957715,Start,157,5070,True,False,True,3,False
+1476,Healthcare,76,71298,Start,75,2850,False,False,True,2,False
+1477,Education,174,7416095,Business,139,6605,True,True,True,2,False
+1478,Education,47,2240934,Start,43,1682,False,False,True,1,False
+1479,Education,15,648369,Start,24,712,False,False,False,1,False
+1480,Construction,105,9890410,Business,112,4647,True,False,True,1,False
+1481,Education,147,7015544,Business,188,5153,False,False,True,3,False
+1482,IT,26,2207156,Start,44,1097,False,False,False,1,False
+1483,Logistics,52,820276,Start,64,4919,True,False,True,2,False
+1484,IT,93,4047608,Business,87,4247,False,False,True,0,False
+1485,Retail,150,3789434,Business,127,6543,False,True,True,0,False
+1486,Retail,232,9911449,Business,241,7038,True,False,True,0,False
+1487,Retail,21,1919388,Start,73,1869,False,False,False,1,False
+1488,Healthcare,51,13713709,Business,176,5518,True,False,False,1,False
+1489,Retail,38,1709474,Start,43,3766,True,True,False,1,False
+1490,Construction,20,650178,Start,24,2101,False,True,False,1,False
+1491,Retail,249,840086,Start,193,5728,True,False,True,1,False
+1492,Retail,157,3033131,Business,183,6531,False,True,True,0,False
+1493,Retail,179,3021858,Business,158,5582,True,False,True,0,False
+1494,IT,132,4844881,Business,133,4434,False,False,True,6,True
+1495,Logistics,55,2933043,Start,56,3666,True,False,True,1,False
+1496,Healthcare,199,10562095,Business,232,7345,False,False,True,3,False
+1497,Logistics,92,2389720,Start,72,2619,False,False,True,2,False
+1498,Construction,28,297886,Start,32,4312,False,True,True,2,False
+1499,Retail,4,2826879,Start,1,2729,True,True,False,1,False
+1500,Professional Services,150,294156,Start,102,4566,True,False,True,2,False
